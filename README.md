@@ -10,7 +10,6 @@
 <h2>스택</h2>
 
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9012.cpp)
-<br>
 ### [탑](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2493.cpp)
 
 <h2>큐</h2>
