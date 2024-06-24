@@ -15,9 +15,22 @@ int main() {
 
     cin >> size;
     for (int i = 1; i <= size; i++) {
-        int num; cin >> num;
+        int num;
+        cin >> num;
+        if (!stk.empty()) {
+            if (num <= stk.top().first) {
+                cmp[i] = stk.top().second;
+            } else {
+                while (!stk.empty() && stk.top().first < num) {
+                    stk.pop();
+                }
+                if(!stk.empty())
+                cmp[i] = stk.top().second;
+            }
+        }
         stk.emplace(num, i);
     }
-
-
+    for (int i = 1; i <= size; i++) {
+        cout << cmp[i] << ' ';
+    }
 }

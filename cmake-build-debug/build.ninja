@@ -49,11 +49,11 @@ cmake_ninja_workdir = /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debu
 
 build cmake_object_order_depends_target_algorithm: phony || CMakeFiles/algorithm.dir
 
-build CMakeFiles/algorithm.dir/3273.cpp.o: CXX_COMPILER__algorithm_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/3273.cpp || cmake_object_order_depends_target_algorithm
-  DEP_FILE = CMakeFiles/algorithm.dir/3273.cpp.o.d
+build CMakeFiles/algorithm.dir/boj/3273.cpp.o: CXX_COMPILER__algorithm_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/3273.cpp || cmake_object_order_depends_target_algorithm
+  DEP_FILE = CMakeFiles/algorithm.dir/boj/3273.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/algorithm.dir
-  OBJECT_FILE_DIR = CMakeFiles/algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles/algorithm.dir/boj
 
 
 # =============================================================================
@@ -63,7 +63,7 @@ build CMakeFiles/algorithm.dir/3273.cpp.o: CXX_COMPILER__algorithm_unscanned_Deb
 #############################################
 # Link the executable algorithm
 
-build algorithm: CXX_EXECUTABLE_LINKER__algorithm_Debug CMakeFiles/algorithm.dir/3273.cpp.o
+build algorithm: CXX_EXECUTABLE_LINKER__algorithm_Debug CMakeFiles/algorithm.dir/boj/3273.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/algorithm.dir
   POST_BUILD = :
@@ -80,11 +80,11 @@ build algorithm: CXX_EXECUTABLE_LINKER__algorithm_Debug CMakeFiles/algorithm.dir
 
 build cmake_object_order_depends_target_2493: phony || CMakeFiles/2493.dir
 
-build CMakeFiles/2493.dir/2493.cpp.o: CXX_COMPILER__2493_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/2493.cpp || cmake_object_order_depends_target_2493
-  DEP_FILE = CMakeFiles/2493.dir/2493.cpp.o.d
+build CMakeFiles/2493.dir/boj/2493.cpp.o: CXX_COMPILER__2493_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/2493.cpp || cmake_object_order_depends_target_2493
+  DEP_FILE = CMakeFiles/2493.dir/boj/2493.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2493.dir
-  OBJECT_FILE_DIR = CMakeFiles/2493.dir
+  OBJECT_FILE_DIR = CMakeFiles/2493.dir/boj
 
 
 # =============================================================================
@@ -94,7 +94,7 @@ build CMakeFiles/2493.dir/2493.cpp.o: CXX_COMPILER__2493_unscanned_Debug /Users/
 #############################################
 # Link the executable 2493
 
-build 2493: CXX_EXECUTABLE_LINKER__2493_Debug CMakeFiles/2493.dir/2493.cpp.o
+build 2493: CXX_EXECUTABLE_LINKER__2493_Debug CMakeFiles/2493.dir/boj/2493.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/2493.dir
   POST_BUILD = :
@@ -111,11 +111,11 @@ build 2493: CXX_EXECUTABLE_LINKER__2493_Debug CMakeFiles/2493.dir/2493.cpp.o
 
 build cmake_object_order_depends_target_2164: phony || CMakeFiles/2164.dir
 
-build CMakeFiles/2164.dir/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/2164.cpp || cmake_object_order_depends_target_2164
-  DEP_FILE = CMakeFiles/2164.dir/2164.cpp.o.d
+build CMakeFiles/2164.dir/boj/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/2164.cpp || cmake_object_order_depends_target_2164
+  DEP_FILE = CMakeFiles/2164.dir/boj/2164.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/2164.dir
-  OBJECT_FILE_DIR = CMakeFiles/2164.dir
+  OBJECT_FILE_DIR = CMakeFiles/2164.dir/boj
 
 
 # =============================================================================
@@ -125,7 +125,7 @@ build CMakeFiles/2164.dir/2164.cpp.o: CXX_COMPILER__2164_unscanned_Debug /Users/
 #############################################
 # Link the executable 2164
 
-build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/2164.cpp.o
+build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/boj/2164.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/2164.dir
   POST_BUILD = :
@@ -142,11 +142,11 @@ build 2164: CXX_EXECUTABLE_LINKER__2164_Debug CMakeFiles/2164.dir/2164.cpp.o
 
 build cmake_object_order_depends_target_9012: phony || CMakeFiles/9012.dir
 
-build CMakeFiles/9012.dir/9012.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/9012.cpp || cmake_object_order_depends_target_9012
-  DEP_FILE = CMakeFiles/9012.dir/9012.cpp.o.d
+build CMakeFiles/9012.dir/boj/9012.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/9012.cpp || cmake_object_order_depends_target_9012
+  DEP_FILE = CMakeFiles/9012.dir/boj/9012.cpp.o.d
   FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/9012.dir
-  OBJECT_FILE_DIR = CMakeFiles/9012.dir
+  OBJECT_FILE_DIR = CMakeFiles/9012.dir/boj
 
 
 # =============================================================================
@@ -156,7 +156,7 @@ build CMakeFiles/9012.dir/9012.cpp.o: CXX_COMPILER__9012_unscanned_Debug /Users/
 #############################################
 # Link the executable 9012
 
-build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/9012.cpp.o
+build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/boj/9012.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
   OBJECT_DIR = CMakeFiles/9012.dir
   POST_BUILD = :
