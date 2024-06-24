@@ -5,7 +5,7 @@
   - Shift + alt + E
 
 <h2>배열</h2>
-### [두 수의 합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/3273.cpp)
+### [두 수의 합](https://github.com/BaekjoonHub/BaekjoonHub)
 <h2>스택</h2>
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9012.cpp)
 <br>
