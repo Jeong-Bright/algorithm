@@ -9,3 +9,6 @@ add_executable(algorithm
 add_executable(2493 boj/2493.cpp)
 add_executable(2164 boj/2164.cpp)
 add_executable(9012 boj/9012.cpp)
+add_executable(boj_11728 boj/11728.cpp)
+add_executable(merge merge.cpp)
+add_executable(boj_1463 boj/1463.cpp)

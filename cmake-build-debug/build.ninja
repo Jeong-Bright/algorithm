@@ -164,6 +164,99 @@ build 9012: CXX_EXECUTABLE_LINKER__9012_Debug CMakeFiles/9012.dir/boj/9012.cpp.o
   TARGET_FILE = 9012
   TARGET_PDB = 9012.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target boj_11728
+
+
+#############################################
+# Order-only phony target for boj_11728
+
+build cmake_object_order_depends_target_boj_11728: phony || CMakeFiles/boj_11728.dir
+
+build CMakeFiles/boj_11728.dir/boj/11728.cpp.o: CXX_COMPILER__boj_11728_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/11728.cpp || cmake_object_order_depends_target_boj_11728
+  DEP_FILE = CMakeFiles/boj_11728.dir/boj/11728.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/boj_11728.dir
+  OBJECT_FILE_DIR = CMakeFiles/boj_11728.dir/boj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target boj_11728
+
+
+#############################################
+# Link the executable boj_11728
+
+build boj_11728: CXX_EXECUTABLE_LINKER__boj_11728_Debug CMakeFiles/boj_11728.dir/boj/11728.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/boj_11728.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = boj_11728
+  TARGET_PDB = boj_11728.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target merge
+
+
+#############################################
+# Order-only phony target for merge
+
+build cmake_object_order_depends_target_merge: phony || CMakeFiles/merge.dir
+
+build CMakeFiles/merge.dir/merge.cpp.o: CXX_COMPILER__merge_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/merge.cpp || cmake_object_order_depends_target_merge
+  DEP_FILE = CMakeFiles/merge.dir/merge.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/merge.dir
+  OBJECT_FILE_DIR = CMakeFiles/merge.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target merge
+
+
+#############################################
+# Link the executable merge
+
+build merge: CXX_EXECUTABLE_LINKER__merge_Debug CMakeFiles/merge.dir/merge.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/merge.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = merge
+  TARGET_PDB = merge.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target boj_1463
+
+
+#############################################
+# Order-only phony target for boj_1463
+
+build cmake_object_order_depends_target_boj_1463: phony || CMakeFiles/boj_1463.dir
+
+build CMakeFiles/boj_1463.dir/boj/1463.cpp.o: CXX_COMPILER__boj_1463_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/1463.cpp || cmake_object_order_depends_target_boj_1463
+  DEP_FILE = CMakeFiles/boj_1463.dir/boj/1463.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/boj_1463.dir
+  OBJECT_FILE_DIR = CMakeFiles/boj_1463.dir/boj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target boj_1463
+
+
+#############################################
+# Link the executable boj_1463
+
+build boj_1463: CXX_EXECUTABLE_LINKER__boj_1463_Debug CMakeFiles/boj_1463.dir/boj/1463.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/boj_1463.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = boj_1463
+  TARGET_PDB = boj_1463.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -198,7 +291,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug
 
-build all: phony algorithm 2493 2164 9012
+build all: phony algorithm 2493 2164 9012 boj_11728 merge boj_1463
 
 # =============================================================================
 # Built-in targets
