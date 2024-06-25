@@ -15,3 +15,5 @@
 <h2>큐</h2>
 
 ### [카드 2](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2164.cpp)
+
+<h2>BFS</h2>
