@@ -7,6 +7,8 @@
 <h2>배열</h2>
   
 ### [두 수의 합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/3273.cpp)
+### [배열 합치기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11728.cpp)
+
 <h2>스택</h2>
 
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9012.cpp)
@@ -17,3 +19,7 @@
 ### [카드 2](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2164.cpp)
 
 <h2>BFS</h2>
+
+<h2>DP</h2>
+
+### [1로 만들기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1463.cpp)
