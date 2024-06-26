@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algorithm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2164::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2164-Debug-bf0ebddadf9ce5a528ab.json",
+					"name" : "2164",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2493::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2493-Debug-72111bd7855e7f6de776.json",
+					"name" : "2493",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "9012::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-9012-Debug-d01cbff123a62fc3b040.json",
+					"name" : "9012",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "algorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-algorithm-Debug-f7589cca7efc1bd4de7a.json",
+					"name" : "algorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_11728::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_11728-Debug-7dbabba3a532fceb46c6.json",
+					"name" : "boj_11728",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_1463::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_1463-Debug-514887dcb0508273988a.json",
+					"name" : "boj_1463",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_9095::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_9095-Debug-6c58d06ec435d3c1cd91.json",
+					"name" : "boj_9095",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "merge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-merge-Debug-dd4843da5d5dce3ab919.json",
+					"name" : "merge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug",
+		"source" : "/Users/jeonjeonghyeon/Documents/algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

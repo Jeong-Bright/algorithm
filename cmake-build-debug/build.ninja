@@ -257,6 +257,37 @@ build boj_1463: CXX_EXECUTABLE_LINKER__boj_1463_Debug CMakeFiles/boj_1463.dir/bo
   TARGET_FILE = boj_1463
   TARGET_PDB = boj_1463.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target boj_9095
+
+
+#############################################
+# Order-only phony target for boj_9095
+
+build cmake_object_order_depends_target_boj_9095: phony || CMakeFiles/boj_9095.dir
+
+build CMakeFiles/boj_9095.dir/boj/9095.cpp.o: CXX_COMPILER__boj_9095_unscanned_Debug /Users/jeonjeonghyeon/Documents/algorithm/boj/9095.cpp || cmake_object_order_depends_target_boj_9095
+  DEP_FILE = CMakeFiles/boj_9095.dir/boj/9095.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/boj_9095.dir
+  OBJECT_FILE_DIR = CMakeFiles/boj_9095.dir/boj
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target boj_9095
+
+
+#############################################
+# Link the executable boj_9095
+
+build boj_9095: CXX_EXECUTABLE_LINKER__boj_9095_Debug CMakeFiles/boj_9095.dir/boj/9095.cpp.o
+  FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk
+  OBJECT_DIR = CMakeFiles/boj_9095.dir
+  POST_BUILD = :
+  PRE_LINK = :
+  TARGET_FILE = boj_9095
+  TARGET_PDB = boj_9095.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -291,7 +322,7 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 #############################################
 # Folder: /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug
 
-build all: phony algorithm 2493 2164 9012 boj_11728 merge boj_1463
+build all: phony algorithm 2493 2164 9012 boj_11728 merge boj_1463 boj_9095
 
 # =============================================================================
 # Built-in targets
