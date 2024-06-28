@@ -5,6 +5,7 @@
   - Shift + alt + E
 
 <h2>구현</h2>
+
 ### [통계학](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2108.cpp)
 
 <h2>배열</h2>
