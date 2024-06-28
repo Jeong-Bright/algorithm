@@ -22,7 +22,10 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -44,7 +47,10 @@
 						4,
 						5,
 						6,
-						7
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -62,6 +68,13 @@
 					"id" : "2493::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-2493-Debug-72111bd7855e7f6de776.json",
 					"name" : "2493",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "2579::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-2579-Debug-be502ca11ae2b99e43b3.json",
+					"name" : "2579",
 					"projectIndex" : 0
 				},
 				{
@@ -94,6 +107,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_2108::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_2108-Debug-e6241bd099200524723b.json",
+					"name" : "boj_2108",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_9095::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_9095-Debug-6c58d06ec435d3c1cd91.json",
 					"name" : "boj_9095",
@@ -104,6 +124,13 @@
 					"id" : "merge::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-merge-Debug-dd4843da5d5dce3ab919.json",
 					"name" : "merge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-test-Debug-3be288f27f8ce173278c.json",
+					"name" : "test",
 					"projectIndex" : 0
 				}
 			]

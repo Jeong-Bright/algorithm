@@ -4,6 +4,9 @@
 - **파일 개별 실행 command**
   - Shift + alt + E
 
+<h2>구현</h2>
+### [통계학](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2108.cpp)
+
 <h2>배열</h2>
   
 ### [두 수의 합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/3273.cpp)
@@ -24,3 +27,5 @@
 
 ### [1로 만들기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1463.cpp)
 ### [1,2,3 더하기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9095.cpp)
+### [계단 오르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2579.cpp)
+
