@@ -28,4 +28,6 @@
 ### [1로 만들기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1463.cpp)
 ### [1,2,3 더하기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9095.cpp)
 ### [계단 오르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2579.cpp)
+### [RGB거리](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1149.cpp)
+### [2xn 타일링](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11726.cpp)
 
