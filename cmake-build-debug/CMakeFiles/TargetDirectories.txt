@@ -13,5 +13,7 @@
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_1149.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_11659.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_1026.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_1931.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_1920.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

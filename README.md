@@ -36,3 +36,10 @@
 <h2>Greedy</h2>
 
 ### [보물](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1026.cpp)
+### [회의실 배정](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1931.cpp)
+
+<h2>Binary Search</h2>
+
+### [수 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1920.cpp)
+
+
