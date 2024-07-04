@@ -11,7 +11,7 @@ int main() {
     int N, M;;
     cin >> N >> M;
 
-    ll st = 1, en = 2147483647;
+    ll st = 1, en = (1<<31) - 1;
 
     for (int i = 0; i < N; i++) cin >> arr[i];
 
