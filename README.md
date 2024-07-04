@@ -41,5 +41,12 @@
 <h2>Binary Search</h2>
 
 ### [수 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1920.cpp)
+### [숫자 카드2](https://github.com/Jeong-Bright/algorithm/blob/main/boj/10816.cpp)
+### [보물 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/18870.cpp)
+
+<h2>Parametric Search</h2>
+
+### [랜선 자르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1654.cpp)
+
 
 

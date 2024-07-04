@@ -67,4 +67,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/boj_1026.dir/DependInfo.cmake"
   "CMakeFiles/boj_1931.dir/DependInfo.cmake"
   "CMakeFiles/boj_1920.dir/DependInfo.cmake"
+  "CMakeFiles/boj_10816.dir/DependInfo.cmake"
+  "CMakeFiles/boj_18870.dir/DependInfo.cmake"
+  "CMakeFiles/boj_1654.dir/DependInfo.cmake"
   )
