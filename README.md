@@ -48,5 +48,8 @@
 
 ### [랜선 자르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1654.cpp)
 
+<h2>Two Pointer</h2>
 
+### [수 고르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2230.cpp)
+### [부분합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1806.cpp)
 
