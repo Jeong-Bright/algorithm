@@ -53,3 +53,6 @@
 ### [수 고르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2230.cpp)
 ### [부분합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1806.cpp)
 
+<h2>BST</h2>
+
+### [이중 우선순위 큐](https://github.com/Jeong-Bright/algorithm/blob/main/boj/7662.cpp)
