@@ -24,6 +24,8 @@
 
 <h2>BFS</h2>
 
+### [토마토](https://github.com/Jeong-Bright/algorithm/blob/main/boj/7576.cpp)
+
 <h2>DP</h2>
 
 ### [1로 만들기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1463.cpp)
