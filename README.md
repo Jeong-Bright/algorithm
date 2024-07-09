@@ -22,6 +22,20 @@
 
 ### [카드 2](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2164.cpp)
 
+<h2>Recursion</h2>
+
+### [제곱](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1629.cpp)
+### [하노이 탑 이동 순서](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11729.cpp)
+
+<h2>BackTracking</h2>
+
+### [N과M(1)](https://github.com/Jeong-Bright/algorithm/blob/main/boj/15649.cpp)
+### [N과M(2)](https://github.com/Jeong-Bright/algorithm/blob/main/boj/15650.cpp)
+### [N과M(3)](https://github.com/Jeong-Bright/algorithm/blob/main/boj/15651.cpp)
+### [N과M(4)](https://github.com/Jeong-Bright/algorithm/blob/main/boj/15652.cpp)
+
+
+
 <h2>BFS</h2>
 
 ### [토마토](https://github.com/Jeong-Bright/algorithm/blob/main/boj/7576.cpp)
@@ -34,6 +48,9 @@
 ### [RGB 거리](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1149.cpp)
 ### [2xN 타일링](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11726.cpp)
 ### [구간 합 구하기 4](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11726.cpp)
+### [가장 긴 증가하는 부분 수열](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11053.cpp)
+### [LCS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9251.cpp)
+
 
 <h2>Greedy</h2>
 
