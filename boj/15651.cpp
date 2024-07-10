@@ -24,6 +24,7 @@ void func(int x) {
 int main() {
     io;
     cin >> N >> M;
+    int x = clock();
     func(0);
 
 }

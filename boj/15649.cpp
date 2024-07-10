@@ -4,6 +4,7 @@
 using namespace std;
 int N,M;
 int arr[10];
+
 bool issued[10];
 void func(int x) {
     if(x == M) {

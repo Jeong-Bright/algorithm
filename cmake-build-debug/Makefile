@@ -558,6 +558,19 @@ boj_9251/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9251.dir/build.make CMakeFiles/boj_9251.dir/build
 .PHONY : boj_9251/fast
 
+#=============================================================================
+# Target rules for targets named boj_11000
+
+# Build rule for target.
+boj_11000: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_11000
+.PHONY : boj_11000
+
+# fast build rule for target.
+boj_11000/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/build
+.PHONY : boj_11000/fast
+
 boj/1026.o: boj/1026.cpp.o
 .PHONY : boj/1026.o
 
@@ -605,6 +618,30 @@ boj/10816.s: boj/10816.cpp.s
 boj/10816.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_10816.dir/build.make CMakeFiles/boj_10816.dir/boj/10816.cpp.s
 .PHONY : boj/10816.cpp.s
+
+boj/11000.o: boj/11000.cpp.o
+.PHONY : boj/11000.o
+
+# target to build an object file
+boj/11000.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/boj/11000.cpp.o
+.PHONY : boj/11000.cpp.o
+
+boj/11000.i: boj/11000.cpp.i
+.PHONY : boj/11000.i
+
+# target to preprocess a source file
+boj/11000.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/boj/11000.cpp.i
+.PHONY : boj/11000.cpp.i
+
+boj/11000.s: boj/11000.cpp.s
+.PHONY : boj/11000.s
+
+# target to generate assembly for a file
+boj/11000.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/boj/11000.cpp.s
+.PHONY : boj/11000.cpp.s
 
 boj/11053.o: boj/11053.cpp.o
 .PHONY : boj/11053.o
@@ -1389,6 +1426,7 @@ help:
 	@echo "... algorithm"
 	@echo "... boj_1026"
 	@echo "... boj_10816"
+	@echo "... boj_11000"
 	@echo "... boj_1149"
 	@echo "... boj_11659"
 	@echo "... boj_11726"
@@ -1422,6 +1460,9 @@ help:
 	@echo "... boj/10816.o"
 	@echo "... boj/10816.i"
 	@echo "... boj/10816.s"
+	@echo "... boj/11000.o"
+	@echo "... boj/11000.i"
+	@echo "... boj/11000.s"
 	@echo "... boj/11053.o"
 	@echo "... boj/11053.i"
 	@echo "... boj/11053.s"

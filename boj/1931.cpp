@@ -29,39 +29,21 @@ int main() {
 
     sort(vec.begin(), vec.end(), compare);
 
-    ll p = vec[N-1].x;
-    ll q = vec[N-1].y;
+    ll en = vec[N - 1].y;
     vec.pop_back();
-    cnt ++;
+    cnt++;
 
     for (ll i = vec.size() - 1; i >= 0; i--) {
 
-        ll w = vec[i].x, z = vec[i].y;
-
-        if(w < q){
+        if(vec[i].x < en){
             cnt++;
-            p = w;
-            q = z;
+            en = vec[i].y;
         }
 
-        else if(w == q) {
-            p = w;
-            q = z;
+        else if(vec[i].x == en) {
+            en = vec[i].y;
         }
 
     }
     cout << cnt;
 }
-
-
-/**
-*
-5
-
-1 7
-2 3
-3 4
-4 8
-7 10
-
-*/
