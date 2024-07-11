@@ -75,3 +75,7 @@
 <h2>BST</h2>
 
 ### [이중 우선순위 큐](https://github.com/Jeong-Bright/algorithm/blob/main/boj/7662.cpp)
+
+<h2>Graph</h2>
+
+### [연결 요소의 개수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11724.cpp)

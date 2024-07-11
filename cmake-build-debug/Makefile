@@ -571,6 +571,19 @@ boj_11000/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/build
 .PHONY : boj_11000/fast
 
+#=============================================================================
+# Target rules for targets named boj_11724
+
+# Build rule for target.
+boj_11724: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_11724
+.PHONY : boj_11724
+
+# fast build rule for target.
+boj_11724/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/build
+.PHONY : boj_11724/fast
+
 boj/1026.o: boj/1026.cpp.o
 .PHONY : boj/1026.o
 
@@ -714,6 +727,30 @@ boj/11659.s: boj/11659.cpp.s
 boj/11659.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11659.dir/build.make CMakeFiles/boj_11659.dir/boj/11659.cpp.s
 .PHONY : boj/11659.cpp.s
+
+boj/11724.o: boj/11724.cpp.o
+.PHONY : boj/11724.o
+
+# target to build an object file
+boj/11724.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/boj/11724.cpp.o
+.PHONY : boj/11724.cpp.o
+
+boj/11724.i: boj/11724.cpp.i
+.PHONY : boj/11724.i
+
+# target to preprocess a source file
+boj/11724.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/boj/11724.cpp.i
+.PHONY : boj/11724.cpp.i
+
+boj/11724.s: boj/11724.cpp.s
+.PHONY : boj/11724.s
+
+# target to generate assembly for a file
+boj/11724.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/boj/11724.cpp.s
+.PHONY : boj/11724.cpp.s
 
 boj/11726.o: boj/11726.cpp.o
 .PHONY : boj/11726.o
@@ -1429,6 +1466,7 @@ help:
 	@echo "... boj_11000"
 	@echo "... boj_1149"
 	@echo "... boj_11659"
+	@echo "... boj_11724"
 	@echo "... boj_11726"
 	@echo "... boj_11728"
 	@echo "... boj_11729"
@@ -1472,6 +1510,9 @@ help:
 	@echo "... boj/11659.o"
 	@echo "... boj/11659.i"
 	@echo "... boj/11659.s"
+	@echo "... boj/11724.o"
+	@echo "... boj/11724.i"
+	@echo "... boj/11724.s"
 	@echo "... boj/11726.o"
 	@echo "... boj/11726.i"
 	@echo "... boj/11726.s"
