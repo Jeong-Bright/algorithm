@@ -47,7 +47,7 @@
 ### [계단 오르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/2579.cpp)
 ### [RGB 거리](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1149.cpp)
 ### [2xN 타일링](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11726.cpp)
-### [구간 합 구하기 4](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11726.cpp)
+### [구간 합 구하기 4](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11659.cpp)
 ### [가장 긴 증가하는 부분 수열](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11053.cpp)
 ### [LCS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/9251.cpp)
 
@@ -79,3 +79,4 @@
 <h2>Graph</h2>
 
 ### [연결 요소의 개수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/11724.cpp)
+### [DFS와 BFS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/1260.cpp)

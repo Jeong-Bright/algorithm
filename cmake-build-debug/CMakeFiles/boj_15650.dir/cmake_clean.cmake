@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/boj_15650.dir/boj/15650.cpp.o"
-  "CMakeFiles/boj_15650.dir/boj/15650.cpp.o.d"
+  "CMakeFiles/boj_15650.dir/boj/backTracking/15650.cpp.o"
+  "CMakeFiles/boj_15650.dir/boj/backTracking/15650.cpp.o.d"
   "boj_15650"
   "boj_15650.pdb"
 )

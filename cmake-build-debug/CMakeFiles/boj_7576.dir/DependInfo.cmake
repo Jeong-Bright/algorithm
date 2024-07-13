@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/jeonjeonghyeon/Documents/algorithm/boj/7576.cpp" "CMakeFiles/boj_7576.dir/boj/7576.cpp.o" "gcc" "CMakeFiles/boj_7576.dir/boj/7576.cpp.o.d"
+  "/Users/jeonjeonghyeon/Documents/algorithm/boj/bfs/7576.cpp" "CMakeFiles/boj_7576.dir/boj/bfs/7576.cpp.o" "gcc" "CMakeFiles/boj_7576.dir/boj/bfs/7576.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

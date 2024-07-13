@@ -69,28 +69,28 @@ include CMakeFiles/2164.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/2164.dir/flags.make
 
-CMakeFiles/2164.dir/boj/2164.cpp.o: CMakeFiles/2164.dir/flags.make
-CMakeFiles/2164.dir/boj/2164.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/2164.cpp
-CMakeFiles/2164.dir/boj/2164.cpp.o: CMakeFiles/2164.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2164.dir/boj/2164.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2164.dir/boj/2164.cpp.o -MF CMakeFiles/2164.dir/boj/2164.cpp.o.d -o CMakeFiles/2164.dir/boj/2164.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/2164.cpp
+CMakeFiles/2164.dir/boj/queue/2164.cpp.o: CMakeFiles/2164.dir/flags.make
+CMakeFiles/2164.dir/boj/queue/2164.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/queue/2164.cpp
+CMakeFiles/2164.dir/boj/queue/2164.cpp.o: CMakeFiles/2164.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2164.dir/boj/queue/2164.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2164.dir/boj/queue/2164.cpp.o -MF CMakeFiles/2164.dir/boj/queue/2164.cpp.o.d -o CMakeFiles/2164.dir/boj/queue/2164.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/queue/2164.cpp
 
-CMakeFiles/2164.dir/boj/2164.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2164.dir/boj/2164.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/2164.cpp > CMakeFiles/2164.dir/boj/2164.cpp.i
+CMakeFiles/2164.dir/boj/queue/2164.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2164.dir/boj/queue/2164.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/queue/2164.cpp > CMakeFiles/2164.dir/boj/queue/2164.cpp.i
 
-CMakeFiles/2164.dir/boj/2164.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2164.dir/boj/2164.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/2164.cpp -o CMakeFiles/2164.dir/boj/2164.cpp.s
+CMakeFiles/2164.dir/boj/queue/2164.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2164.dir/boj/queue/2164.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/queue/2164.cpp -o CMakeFiles/2164.dir/boj/queue/2164.cpp.s
 
 # Object files for target 2164
 2164_OBJECTS = \
-"CMakeFiles/2164.dir/boj/2164.cpp.o"
+"CMakeFiles/2164.dir/boj/queue/2164.cpp.o"
 
 # External object files for target 2164
 2164_EXTERNAL_OBJECTS =
 
-2164: CMakeFiles/2164.dir/boj/2164.cpp.o
+2164: CMakeFiles/2164.dir/boj/queue/2164.cpp.o
 2164: CMakeFiles/2164.dir/build.make
 2164: CMakeFiles/2164.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2164"

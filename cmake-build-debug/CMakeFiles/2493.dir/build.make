@@ -69,28 +69,28 @@ include CMakeFiles/2493.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/2493.dir/flags.make
 
-CMakeFiles/2493.dir/boj/2493.cpp.o: CMakeFiles/2493.dir/flags.make
-CMakeFiles/2493.dir/boj/2493.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/2493.cpp
-CMakeFiles/2493.dir/boj/2493.cpp.o: CMakeFiles/2493.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2493.dir/boj/2493.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2493.dir/boj/2493.cpp.o -MF CMakeFiles/2493.dir/boj/2493.cpp.o.d -o CMakeFiles/2493.dir/boj/2493.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/2493.cpp
+CMakeFiles/2493.dir/boj/stack/2493.cpp.o: CMakeFiles/2493.dir/flags.make
+CMakeFiles/2493.dir/boj/stack/2493.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/stack/2493.cpp
+CMakeFiles/2493.dir/boj/stack/2493.cpp.o: CMakeFiles/2493.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/2493.dir/boj/stack/2493.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/2493.dir/boj/stack/2493.cpp.o -MF CMakeFiles/2493.dir/boj/stack/2493.cpp.o.d -o CMakeFiles/2493.dir/boj/stack/2493.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/stack/2493.cpp
 
-CMakeFiles/2493.dir/boj/2493.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2493.dir/boj/2493.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/2493.cpp > CMakeFiles/2493.dir/boj/2493.cpp.i
+CMakeFiles/2493.dir/boj/stack/2493.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/2493.dir/boj/stack/2493.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/stack/2493.cpp > CMakeFiles/2493.dir/boj/stack/2493.cpp.i
 
-CMakeFiles/2493.dir/boj/2493.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2493.dir/boj/2493.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/2493.cpp -o CMakeFiles/2493.dir/boj/2493.cpp.s
+CMakeFiles/2493.dir/boj/stack/2493.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/2493.dir/boj/stack/2493.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/stack/2493.cpp -o CMakeFiles/2493.dir/boj/stack/2493.cpp.s
 
 # Object files for target 2493
 2493_OBJECTS = \
-"CMakeFiles/2493.dir/boj/2493.cpp.o"
+"CMakeFiles/2493.dir/boj/stack/2493.cpp.o"
 
 # External object files for target 2493
 2493_EXTERNAL_OBJECTS =
 
-2493: CMakeFiles/2493.dir/boj/2493.cpp.o
+2493: CMakeFiles/2493.dir/boj/stack/2493.cpp.o
 2493: CMakeFiles/2493.dir/build.make
 2493: CMakeFiles/2493.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 2493"

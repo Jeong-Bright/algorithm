@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/boj_10816.dir/boj/10816.cpp.o"
-  "CMakeFiles/boj_10816.dir/boj/10816.cpp.o.d"
+  "CMakeFiles/boj_10816.dir/boj/binarySearch/10816.cpp.o"
+  "CMakeFiles/boj_10816.dir/boj/binarySearch/10816.cpp.o.d"
   "boj_10816"
   "boj_10816.pdb"
 )

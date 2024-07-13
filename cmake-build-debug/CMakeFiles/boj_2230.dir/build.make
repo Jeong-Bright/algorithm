@@ -69,28 +69,28 @@ include CMakeFiles/boj_2230.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/boj_2230.dir/flags.make
 
-CMakeFiles/boj_2230.dir/boj/2230.cpp.o: CMakeFiles/boj_2230.dir/flags.make
-CMakeFiles/boj_2230.dir/boj/2230.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/2230.cpp
-CMakeFiles/boj_2230.dir/boj/2230.cpp.o: CMakeFiles/boj_2230.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boj_2230.dir/boj/2230.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boj_2230.dir/boj/2230.cpp.o -MF CMakeFiles/boj_2230.dir/boj/2230.cpp.o.d -o CMakeFiles/boj_2230.dir/boj/2230.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/2230.cpp
+CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o: CMakeFiles/boj_2230.dir/flags.make
+CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2230.cpp
+CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o: CMakeFiles/boj_2230.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o -MF CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o.d -o CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2230.cpp
 
-CMakeFiles/boj_2230.dir/boj/2230.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/boj_2230.dir/boj/2230.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/2230.cpp > CMakeFiles/boj_2230.dir/boj/2230.cpp.i
+CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2230.cpp > CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.i
 
-CMakeFiles/boj_2230.dir/boj/2230.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/boj_2230.dir/boj/2230.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/2230.cpp -o CMakeFiles/boj_2230.dir/boj/2230.cpp.s
+CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2230.cpp -o CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.s
 
 # Object files for target boj_2230
 boj_2230_OBJECTS = \
-"CMakeFiles/boj_2230.dir/boj/2230.cpp.o"
+"CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o"
 
 # External object files for target boj_2230
 boj_2230_EXTERNAL_OBJECTS =
 
-boj_2230: CMakeFiles/boj_2230.dir/boj/2230.cpp.o
+boj_2230: CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.o
 boj_2230: CMakeFiles/boj_2230.dir/build.make
 boj_2230: CMakeFiles/boj_2230.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable boj_2230"

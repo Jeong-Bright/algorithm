@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/jeonjeonghyeon/Documents/algorithm/boj/18870.cpp" "CMakeFiles/boj_18870.dir/boj/18870.cpp.o" "gcc" "CMakeFiles/boj_18870.dir/boj/18870.cpp.o.d"
+  "/Users/jeonjeonghyeon/Documents/algorithm/boj/binarySearch/18870.cpp" "CMakeFiles/boj_18870.dir/boj/binarySearch/18870.cpp.o" "gcc" "CMakeFiles/boj_18870.dir/boj/binarySearch/18870.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

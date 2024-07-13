@@ -69,28 +69,28 @@ include CMakeFiles/boj_11724.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/boj_11724.dir/flags.make
 
-CMakeFiles/boj_11724.dir/boj/11724.cpp.o: CMakeFiles/boj_11724.dir/flags.make
-CMakeFiles/boj_11724.dir/boj/11724.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/11724.cpp
-CMakeFiles/boj_11724.dir/boj/11724.cpp.o: CMakeFiles/boj_11724.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boj_11724.dir/boj/11724.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boj_11724.dir/boj/11724.cpp.o -MF CMakeFiles/boj_11724.dir/boj/11724.cpp.o.d -o CMakeFiles/boj_11724.dir/boj/11724.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/11724.cpp
+CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o: CMakeFiles/boj_11724.dir/flags.make
+CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/graph/11724.cpp
+CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o: CMakeFiles/boj_11724.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o -MF CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o.d -o CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/graph/11724.cpp
 
-CMakeFiles/boj_11724.dir/boj/11724.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/boj_11724.dir/boj/11724.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/11724.cpp > CMakeFiles/boj_11724.dir/boj/11724.cpp.i
+CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/graph/11724.cpp > CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.i
 
-CMakeFiles/boj_11724.dir/boj/11724.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/boj_11724.dir/boj/11724.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/11724.cpp -o CMakeFiles/boj_11724.dir/boj/11724.cpp.s
+CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/graph/11724.cpp -o CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.s
 
 # Object files for target boj_11724
 boj_11724_OBJECTS = \
-"CMakeFiles/boj_11724.dir/boj/11724.cpp.o"
+"CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o"
 
 # External object files for target boj_11724
 boj_11724_EXTERNAL_OBJECTS =
 
-boj_11724: CMakeFiles/boj_11724.dir/boj/11724.cpp.o
+boj_11724: CMakeFiles/boj_11724.dir/boj/graph/11724.cpp.o
 boj_11724: CMakeFiles/boj_11724.dir/build.make
 boj_11724: CMakeFiles/boj_11724.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable boj_11724"

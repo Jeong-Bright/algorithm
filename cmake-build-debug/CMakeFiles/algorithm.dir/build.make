@@ -69,28 +69,28 @@ include CMakeFiles/algorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/algorithm.dir/flags.make
 
-CMakeFiles/algorithm.dir/boj/3273.cpp.o: CMakeFiles/algorithm.dir/flags.make
-CMakeFiles/algorithm.dir/boj/3273.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/3273.cpp
-CMakeFiles/algorithm.dir/boj/3273.cpp.o: CMakeFiles/algorithm.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm.dir/boj/3273.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm.dir/boj/3273.cpp.o -MF CMakeFiles/algorithm.dir/boj/3273.cpp.o.d -o CMakeFiles/algorithm.dir/boj/3273.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/3273.cpp
+CMakeFiles/algorithm.dir/boj/array/3273.cpp.o: CMakeFiles/algorithm.dir/flags.make
+CMakeFiles/algorithm.dir/boj/array/3273.cpp.o: /Users/jeonjeonghyeon/Documents/algorithm/boj/array/3273.cpp
+CMakeFiles/algorithm.dir/boj/array/3273.cpp.o: CMakeFiles/algorithm.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algorithm.dir/boj/array/3273.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algorithm.dir/boj/array/3273.cpp.o -MF CMakeFiles/algorithm.dir/boj/array/3273.cpp.o.d -o CMakeFiles/algorithm.dir/boj/array/3273.cpp.o -c /Users/jeonjeonghyeon/Documents/algorithm/boj/array/3273.cpp
 
-CMakeFiles/algorithm.dir/boj/3273.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/boj/3273.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/3273.cpp > CMakeFiles/algorithm.dir/boj/3273.cpp.i
+CMakeFiles/algorithm.dir/boj/array/3273.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algorithm.dir/boj/array/3273.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jeonjeonghyeon/Documents/algorithm/boj/array/3273.cpp > CMakeFiles/algorithm.dir/boj/array/3273.cpp.i
 
-CMakeFiles/algorithm.dir/boj/3273.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/boj/3273.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/3273.cpp -o CMakeFiles/algorithm.dir/boj/3273.cpp.s
+CMakeFiles/algorithm.dir/boj/array/3273.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algorithm.dir/boj/array/3273.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jeonjeonghyeon/Documents/algorithm/boj/array/3273.cpp -o CMakeFiles/algorithm.dir/boj/array/3273.cpp.s
 
 # Object files for target algorithm
 algorithm_OBJECTS = \
-"CMakeFiles/algorithm.dir/boj/3273.cpp.o"
+"CMakeFiles/algorithm.dir/boj/array/3273.cpp.o"
 
 # External object files for target algorithm
 algorithm_EXTERNAL_OBJECTS =
 
-algorithm: CMakeFiles/algorithm.dir/boj/3273.cpp.o
+algorithm: CMakeFiles/algorithm.dir/boj/array/3273.cpp.o
 algorithm: CMakeFiles/algorithm.dir/build.make
 algorithm: CMakeFiles/algorithm.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable algorithm"
