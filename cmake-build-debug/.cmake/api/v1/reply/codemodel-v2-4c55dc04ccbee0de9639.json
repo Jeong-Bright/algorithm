@@ -52,7 +52,9 @@
 						34,
 						35,
 						36,
-						37
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -104,7 +106,9 @@
 						34,
 						35,
 						36,
-						37
+						37,
+						38,
+						39
 					]
 				}
 			],
@@ -360,6 +364,20 @@
 					"id" : "boj_dp_1106::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_dp_1106-Debug-b6e484dbca027fd554b4.json",
 					"name" : "boj_dp_1106",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_greedy_11399::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_greedy_11399-Debug-554b49a8cf1cb5dd4b78.json",
+					"name" : "boj_greedy_11399",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_greedy_2212::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_greedy_2212-Debug-03ad912edebce3581311.json",
+					"name" : "boj_greedy_2212",
 					"projectIndex" : 0
 				},
 				{
