@@ -636,6 +636,32 @@ boj_greedy_11399/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11399.dir/build.make CMakeFiles/boj_greedy_11399.dir/build
 .PHONY : boj_greedy_11399/fast
 
+#=============================================================================
+# Target rules for targets named boj_tree_11725
+
+# Build rule for target.
+boj_tree_11725: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_tree_11725
+.PHONY : boj_tree_11725
+
+# fast build rule for target.
+boj_tree_11725/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/build
+.PHONY : boj_tree_11725/fast
+
+#=============================================================================
+# Target rules for targets named boj_tree_1991
+
+# Build rule for target.
+boj_tree_1991: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_tree_1991
+.PHONY : boj_tree_1991
+
+# fast build rule for target.
+boj_tree_1991/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/build
+.PHONY : boj_tree_1991/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1500,6 +1526,54 @@ boj/stack/9012.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/9012.dir/build.make CMakeFiles/9012.dir/boj/stack/9012.cpp.s
 .PHONY : boj/stack/9012.cpp.s
 
+boj/tree/11725.o: boj/tree/11725.cpp.o
+.PHONY : boj/tree/11725.o
+
+# target to build an object file
+boj/tree/11725.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/boj/tree/11725.cpp.o
+.PHONY : boj/tree/11725.cpp.o
+
+boj/tree/11725.i: boj/tree/11725.cpp.i
+.PHONY : boj/tree/11725.i
+
+# target to preprocess a source file
+boj/tree/11725.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/boj/tree/11725.cpp.i
+.PHONY : boj/tree/11725.cpp.i
+
+boj/tree/11725.s: boj/tree/11725.cpp.s
+.PHONY : boj/tree/11725.s
+
+# target to generate assembly for a file
+boj/tree/11725.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/boj/tree/11725.cpp.s
+.PHONY : boj/tree/11725.cpp.s
+
+boj/tree/1991.o: boj/tree/1991.cpp.o
+.PHONY : boj/tree/1991.o
+
+# target to build an object file
+boj/tree/1991.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/boj/tree/1991.cpp.o
+.PHONY : boj/tree/1991.cpp.o
+
+boj/tree/1991.i: boj/tree/1991.cpp.i
+.PHONY : boj/tree/1991.i
+
+# target to preprocess a source file
+boj/tree/1991.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/boj/tree/1991.cpp.i
+.PHONY : boj/tree/1991.cpp.i
+
+boj/tree/1991.s: boj/tree/1991.cpp.s
+.PHONY : boj/tree/1991.s
+
+# target to generate assembly for a file
+boj/tree/1991.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/boj/tree/1991.cpp.s
+.PHONY : boj/tree/1991.cpp.s
+
 boj/twoPointer/1806.o: boj/twoPointer/1806.cpp.o
 .PHONY : boj/twoPointer/1806.o
 
@@ -1642,6 +1716,8 @@ help:
 	@echo "... boj_dp_1106"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_2212"
+	@echo "... boj_tree_11725"
+	@echo "... boj_tree_1991"
 	@echo "... merge"
 	@echo "... test"
 	@echo "... boj/11000.o"
@@ -1752,6 +1828,12 @@ help:
 	@echo "... boj/stack/9012.o"
 	@echo "... boj/stack/9012.i"
 	@echo "... boj/stack/9012.s"
+	@echo "... boj/tree/11725.o"
+	@echo "... boj/tree/11725.i"
+	@echo "... boj/tree/11725.s"
+	@echo "... boj/tree/1991.o"
+	@echo "... boj/tree/1991.i"
+	@echo "... boj/tree/1991.s"
 	@echo "... boj/twoPointer/1806.o"
 	@echo "... boj/twoPointer/1806.i"
 	@echo "... boj/twoPointer/1806.s"

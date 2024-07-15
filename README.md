@@ -81,3 +81,7 @@
 
 ### [연결 요소의 개수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/11724.cpp)
 ### [DFS와 BFS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/1260.cpp)
+
+<h2>Tree</h2>
+### [트리의 부모 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/11725.cpp)
+### [트리 순회](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/1991.cpp)
