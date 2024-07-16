@@ -105,6 +105,7 @@ all: CMakeFiles/boj_greedy_2212.dir/all
 all: CMakeFiles/boj_greedy_11399.dir/all
 all: CMakeFiles/boj_tree_11725.dir/all
 all: CMakeFiles/boj_tree_1991.dir/all
+all: CMakeFiles/boj_greedy_11501.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -154,6 +155,7 @@ clean: CMakeFiles/boj_greedy_2212.dir/clean
 clean: CMakeFiles/boj_greedy_11399.dir/clean
 clean: CMakeFiles/boj_tree_11725.dir/clean
 clean: CMakeFiles/boj_tree_1991.dir/clean
+clean: CMakeFiles/boj_greedy_11501.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -293,7 +295,7 @@ CMakeFiles/boj_11728.dir/clean:
 CMakeFiles/merge.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/merge.dir/build.make CMakeFiles/merge.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/merge.dir/build.make CMakeFiles/merge.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target merge"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target merge"
 .PHONY : CMakeFiles/merge.dir/all
 
 # Build rule for subdir invocation for target.
@@ -397,7 +399,7 @@ CMakeFiles/boj_2108.dir/clean:
 CMakeFiles/test.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=83,84 "Built target test"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=85,86 "Built target test"
 .PHONY : CMakeFiles/test.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1151,7 +1153,7 @@ CMakeFiles/boj_dp_1106.dir/clean:
 CMakeFiles/boj_greedy_2212.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_2212.dir/build.make CMakeFiles/boj_greedy_2212.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_2212.dir/build.make CMakeFiles/boj_greedy_2212.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target boj_greedy_2212"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target boj_greedy_2212"
 .PHONY : CMakeFiles/boj_greedy_2212.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1203,7 +1205,7 @@ CMakeFiles/boj_greedy_11399.dir/clean:
 CMakeFiles/boj_tree_11725.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_11725.dir/build.make CMakeFiles/boj_tree_11725.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target boj_tree_11725"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target boj_tree_11725"
 .PHONY : CMakeFiles/boj_tree_11725.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1229,7 +1231,7 @@ CMakeFiles/boj_tree_11725.dir/clean:
 CMakeFiles/boj_tree_1991.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target boj_tree_1991"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target boj_tree_1991"
 .PHONY : CMakeFiles/boj_tree_1991.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1247,6 +1249,32 @@ boj_tree_1991: CMakeFiles/boj_tree_1991.dir/rule
 CMakeFiles/boj_tree_1991.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/clean
 .PHONY : CMakeFiles/boj_tree_1991.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/boj_greedy_11501.dir
+
+# All Build rule for target.
+CMakeFiles/boj_greedy_11501.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=75,76 "Built target boj_greedy_11501"
+.PHONY : CMakeFiles/boj_greedy_11501.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/boj_greedy_11501.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_11501.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/boj_greedy_11501.dir/rule
+
+# Convenience name for target.
+boj_greedy_11501: CMakeFiles/boj_greedy_11501.dir/rule
+.PHONY : boj_greedy_11501
+
+# clean rule for target.
+CMakeFiles/boj_greedy_11501.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/clean
+.PHONY : CMakeFiles/boj_greedy_11501.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

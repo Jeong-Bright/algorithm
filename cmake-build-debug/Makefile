@@ -662,6 +662,19 @@ boj_tree_1991/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_tree_1991.dir/build.make CMakeFiles/boj_tree_1991.dir/build
 .PHONY : boj_tree_1991/fast
 
+#=============================================================================
+# Target rules for targets named boj_greedy_11501
+
+# Build rule for target.
+boj_greedy_11501: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_11501
+.PHONY : boj_greedy_11501
+
+# fast build rule for target.
+boj_greedy_11501/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/build
+.PHONY : boj_greedy_11501/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1310,6 +1323,30 @@ boj/greedy/11399.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11399.dir/build.make CMakeFiles/boj_greedy_11399.dir/boj/greedy/11399.cpp.s
 .PHONY : boj/greedy/11399.cpp.s
 
+boj/greedy/11501.o: boj/greedy/11501.cpp.o
+.PHONY : boj/greedy/11501.o
+
+# target to build an object file
+boj/greedy/11501.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/boj/greedy/11501.cpp.o
+.PHONY : boj/greedy/11501.cpp.o
+
+boj/greedy/11501.i: boj/greedy/11501.cpp.i
+.PHONY : boj/greedy/11501.i
+
+# target to preprocess a source file
+boj/greedy/11501.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/boj/greedy/11501.cpp.i
+.PHONY : boj/greedy/11501.cpp.i
+
+boj/greedy/11501.s: boj/greedy/11501.cpp.s
+.PHONY : boj/greedy/11501.s
+
+# target to generate assembly for a file
+boj/greedy/11501.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/boj/greedy/11501.cpp.s
+.PHONY : boj/greedy/11501.cpp.s
+
 boj/greedy/1931.o: boj/greedy/1931.cpp.o
 .PHONY : boj/greedy/1931.o
 
@@ -1715,6 +1752,7 @@ help:
 	@echo "... boj_9251"
 	@echo "... boj_dp_1106"
 	@echo "... boj_greedy_11399"
+	@echo "... boj_greedy_11501"
 	@echo "... boj_greedy_2212"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
@@ -1801,6 +1839,9 @@ help:
 	@echo "... boj/greedy/11399.o"
 	@echo "... boj/greedy/11399.i"
 	@echo "... boj/greedy/11399.s"
+	@echo "... boj/greedy/11501.o"
+	@echo "... boj/greedy/11501.i"
+	@echo "... boj/greedy/11501.s"
 	@echo "... boj/greedy/1931.o"
 	@echo "... boj/greedy/1931.i"
 	@echo "... boj/greedy/1931.s"

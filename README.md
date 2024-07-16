@@ -57,6 +57,7 @@
 ### [보물](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1026.cpp)
 ### [회의실 배정](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1931.cpp)
 ### [ATM](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11399.cpp)
+### [주식](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11501.cpp)
 
 <h2>Binary Search</h2>
 
@@ -83,5 +84,6 @@
 ### [DFS와 BFS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/1260.cpp)
 
 <h2>Tree</h2>
+
 ### [트리의 부모 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/11725.cpp)
 ### [트리 순회](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/1991.cpp)

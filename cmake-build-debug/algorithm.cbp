@@ -1613,6 +1613,44 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="boj_greedy_11501">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_11501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_11501"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_greedy_11501/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_11501" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_11501/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1714,6 +1752,9 @@
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/11399.cpp">
 			<Option target="boj_greedy_11399"/>
+		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/11501.cpp">
+			<Option target="boj_greedy_11501"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/1931.cpp">
 			<Option target="boj_1931"/>
