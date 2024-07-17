@@ -58,6 +58,7 @@
 ### [회의실 배정](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1931.cpp)
 ### [ATM](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11399.cpp)
 ### [주식](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11501.cpp)
+### [수묶기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1744.cpp)
 
 <h2>Binary Search</h2>
 

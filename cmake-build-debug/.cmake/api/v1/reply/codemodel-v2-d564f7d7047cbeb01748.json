@@ -57,7 +57,8 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43
 					]
 				}
 			],
@@ -114,7 +115,8 @@
 						39,
 						40,
 						41,
-						42
+						42,
+						43
 					]
 				}
 			],
@@ -384,6 +386,13 @@
 					"id" : "boj_greedy_11501::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_greedy_11501-Debug-d4ea04a448e32d46bd92.json",
 					"name" : "boj_greedy_11501",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_greedy_1744::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_greedy_1744-Debug-bb728bc8cbf27f540b55.json",
+					"name" : "boj_greedy_1744",
 					"projectIndex" : 0
 				},
 				{
