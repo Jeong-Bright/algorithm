@@ -50,6 +50,8 @@
 ### [구간 합 구하기 4](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/11659.cpp)
 ### [가장 긴 증가하는 부분 수열](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/11053.cpp)
 ### [LCS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/9251.cpp)
+### [파도반 수열](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/9461.cpp)
+### [이동하기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/11048.cpp)
 
 
 <h2>Greedy</h2>

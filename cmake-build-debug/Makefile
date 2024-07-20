@@ -688,6 +688,45 @@ boj_greedy_1744/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1744.dir/build.make CMakeFiles/boj_greedy_1744.dir/build
 .PHONY : boj_greedy_1744/fast
 
+#=============================================================================
+# Target rules for targets named boj_implemented_2992
+
+# Build rule for target.
+boj_implemented_2992: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_implemented_2992
+.PHONY : boj_implemented_2992
+
+# fast build rule for target.
+boj_implemented_2992/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/build
+.PHONY : boj_implemented_2992/fast
+
+#=============================================================================
+# Target rules for targets named boj_dp_2156
+
+# Build rule for target.
+boj_dp_2156: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_dp_2156
+.PHONY : boj_dp_2156
+
+# fast build rule for target.
+boj_dp_2156/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/build
+.PHONY : boj_dp_2156/fast
+
+#=============================================================================
+# Target rules for targets named boj_dp_11048
+
+# Build rule for target.
+boj_dp_11048: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_dp_11048
+.PHONY : boj_dp_11048
+
+# fast build rule for target.
+boj_dp_11048/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/build
+.PHONY : boj_dp_11048/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1024,6 +1063,30 @@ boj/binarySearchTree/7662.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7662.dir/build.make CMakeFiles/boj_7662.dir/boj/binarySearchTree/7662.cpp.s
 .PHONY : boj/binarySearchTree/7662.cpp.s
 
+boj/dp/11048.o: boj/dp/11048.cpp.o
+.PHONY : boj/dp/11048.o
+
+# target to build an object file
+boj/dp/11048.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/boj/dp/11048.cpp.o
+.PHONY : boj/dp/11048.cpp.o
+
+boj/dp/11048.i: boj/dp/11048.cpp.i
+.PHONY : boj/dp/11048.i
+
+# target to preprocess a source file
+boj/dp/11048.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/boj/dp/11048.cpp.i
+.PHONY : boj/dp/11048.cpp.i
+
+boj/dp/11048.s: boj/dp/11048.cpp.s
+.PHONY : boj/dp/11048.s
+
+# target to generate assembly for a file
+boj/dp/11048.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/boj/dp/11048.cpp.s
+.PHONY : boj/dp/11048.cpp.s
+
 boj/dp/11053.o: boj/dp/11053.cpp.o
 .PHONY : boj/dp/11053.o
 
@@ -1168,6 +1231,30 @@ boj/dp/1463.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1463.dir/build.make CMakeFiles/boj_1463.dir/boj/dp/1463.cpp.s
 .PHONY : boj/dp/1463.cpp.s
 
+boj/dp/2156.o: boj/dp/2156.cpp.o
+.PHONY : boj/dp/2156.o
+
+# target to build an object file
+boj/dp/2156.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/boj/dp/2156.cpp.o
+.PHONY : boj/dp/2156.cpp.o
+
+boj/dp/2156.i: boj/dp/2156.cpp.i
+.PHONY : boj/dp/2156.i
+
+# target to preprocess a source file
+boj/dp/2156.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/boj/dp/2156.cpp.i
+.PHONY : boj/dp/2156.cpp.i
+
+boj/dp/2156.s: boj/dp/2156.cpp.s
+.PHONY : boj/dp/2156.s
+
+# target to generate assembly for a file
+boj/dp/2156.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/boj/dp/2156.cpp.s
+.PHONY : boj/dp/2156.cpp.s
+
 boj/dp/2579.o: boj/dp/2579.cpp.o
 .PHONY : boj/dp/2579.o
 
@@ -1239,6 +1326,30 @@ boj/dp/9251.s: boj/dp/9251.cpp.s
 boj/dp/9251.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9251.dir/build.make CMakeFiles/boj_9251.dir/boj/dp/9251.cpp.s
 .PHONY : boj/dp/9251.cpp.s
+
+boj/dp/9461.o: boj/dp/9461.cpp.o
+.PHONY : boj/dp/9461.o
+
+# target to build an object file
+boj/dp/9461.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/boj/dp/9461.cpp.o
+.PHONY : boj/dp/9461.cpp.o
+
+boj/dp/9461.i: boj/dp/9461.cpp.i
+.PHONY : boj/dp/9461.i
+
+# target to preprocess a source file
+boj/dp/9461.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/boj/dp/9461.cpp.i
+.PHONY : boj/dp/9461.cpp.i
+
+boj/dp/9461.s: boj/dp/9461.cpp.s
+.PHONY : boj/dp/9461.s
+
+# target to generate assembly for a file
+boj/dp/9461.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/boj/dp/9461.cpp.s
+.PHONY : boj/dp/9461.cpp.s
 
 boj/graph/11724.o: boj/graph/11724.cpp.o
 .PHONY : boj/graph/11724.o
@@ -1787,11 +1898,14 @@ help:
 	@echo "... boj_7662"
 	@echo "... boj_9095"
 	@echo "... boj_9251"
+	@echo "... boj_dp_11048"
 	@echo "... boj_dp_1106"
+	@echo "... boj_dp_2156"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_11501"
 	@echo "... boj_greedy_1744"
 	@echo "... boj_greedy_2212"
+	@echo "... boj_implemented_2992"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
 	@echo "... merge"
@@ -1838,6 +1952,9 @@ help:
 	@echo "... boj/binarySearchTree/7662.o"
 	@echo "... boj/binarySearchTree/7662.i"
 	@echo "... boj/binarySearchTree/7662.s"
+	@echo "... boj/dp/11048.o"
+	@echo "... boj/dp/11048.i"
+	@echo "... boj/dp/11048.s"
 	@echo "... boj/dp/11053.o"
 	@echo "... boj/dp/11053.i"
 	@echo "... boj/dp/11053.s"
@@ -1856,6 +1973,9 @@ help:
 	@echo "... boj/dp/1463.o"
 	@echo "... boj/dp/1463.i"
 	@echo "... boj/dp/1463.s"
+	@echo "... boj/dp/2156.o"
+	@echo "... boj/dp/2156.i"
+	@echo "... boj/dp/2156.s"
 	@echo "... boj/dp/2579.o"
 	@echo "... boj/dp/2579.i"
 	@echo "... boj/dp/2579.s"
@@ -1865,6 +1985,9 @@ help:
 	@echo "... boj/dp/9251.o"
 	@echo "... boj/dp/9251.i"
 	@echo "... boj/dp/9251.s"
+	@echo "... boj/dp/9461.o"
+	@echo "... boj/dp/9461.i"
+	@echo "... boj/dp/9461.s"
 	@echo "... boj/graph/11724.o"
 	@echo "... boj/graph/11724.i"
 	@echo "... boj/graph/11724.s"
