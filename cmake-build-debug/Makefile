@@ -727,6 +727,32 @@ boj_dp_11048/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/build
 .PHONY : boj_dp_11048/fast
 
+#=============================================================================
+# Target rules for targets named boj_dp_2839
+
+# Build rule for target.
+boj_dp_2839: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_dp_2839
+.PHONY : boj_dp_2839
+
+# fast build rule for target.
+boj_dp_2839/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/build
+.PHONY : boj_dp_2839/fast
+
+#=============================================================================
+# Target rules for targets named boj_twoPointer_2470
+
+# Build rule for target.
+boj_twoPointer_2470: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_twoPointer_2470
+.PHONY : boj_twoPointer_2470
+
+# fast build rule for target.
+boj_twoPointer_2470/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/build
+.PHONY : boj_twoPointer_2470/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1279,6 +1305,30 @@ boj/dp/2579.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2579.dir/build.make CMakeFiles/2579.dir/boj/dp/2579.cpp.s
 .PHONY : boj/dp/2579.cpp.s
 
+boj/dp/2839.o: boj/dp/2839.cpp.o
+.PHONY : boj/dp/2839.o
+
+# target to build an object file
+boj/dp/2839.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/boj/dp/2839.cpp.o
+.PHONY : boj/dp/2839.cpp.o
+
+boj/dp/2839.i: boj/dp/2839.cpp.i
+.PHONY : boj/dp/2839.i
+
+# target to preprocess a source file
+boj/dp/2839.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/boj/dp/2839.cpp.i
+.PHONY : boj/dp/2839.cpp.i
+
+boj/dp/2839.s: boj/dp/2839.cpp.s
+.PHONY : boj/dp/2839.s
+
+# target to generate assembly for a file
+boj/dp/2839.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/boj/dp/2839.cpp.s
+.PHONY : boj/dp/2839.cpp.s
+
 boj/dp/9095.o: boj/dp/9095.cpp.o
 .PHONY : boj/dp/9095.o
 
@@ -1807,6 +1857,30 @@ boj/twoPointer/2230.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_2230.dir/build.make CMakeFiles/boj_2230.dir/boj/twoPointer/2230.cpp.s
 .PHONY : boj/twoPointer/2230.cpp.s
 
+boj/twoPointer/2470.o: boj/twoPointer/2470.cpp.o
+.PHONY : boj/twoPointer/2470.o
+
+# target to build an object file
+boj/twoPointer/2470.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/boj/twoPointer/2470.cpp.o
+.PHONY : boj/twoPointer/2470.cpp.o
+
+boj/twoPointer/2470.i: boj/twoPointer/2470.cpp.i
+.PHONY : boj/twoPointer/2470.i
+
+# target to preprocess a source file
+boj/twoPointer/2470.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/boj/twoPointer/2470.cpp.i
+.PHONY : boj/twoPointer/2470.cpp.i
+
+boj/twoPointer/2470.s: boj/twoPointer/2470.cpp.s
+.PHONY : boj/twoPointer/2470.s
+
+# target to generate assembly for a file
+boj/twoPointer/2470.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/boj/twoPointer/2470.cpp.s
+.PHONY : boj/twoPointer/2470.cpp.s
+
 merge.o: merge.cpp.o
 .PHONY : merge.o
 
@@ -1901,6 +1975,7 @@ help:
 	@echo "... boj_dp_11048"
 	@echo "... boj_dp_1106"
 	@echo "... boj_dp_2156"
+	@echo "... boj_dp_2839"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_11501"
 	@echo "... boj_greedy_1744"
@@ -1908,6 +1983,7 @@ help:
 	@echo "... boj_implemented_2992"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
+	@echo "... boj_twoPointer_2470"
 	@echo "... merge"
 	@echo "... test"
 	@echo "... boj/11000.o"
@@ -1979,6 +2055,9 @@ help:
 	@echo "... boj/dp/2579.o"
 	@echo "... boj/dp/2579.i"
 	@echo "... boj/dp/2579.s"
+	@echo "... boj/dp/2839.o"
+	@echo "... boj/dp/2839.i"
+	@echo "... boj/dp/2839.s"
 	@echo "... boj/dp/9095.o"
 	@echo "... boj/dp/9095.i"
 	@echo "... boj/dp/9095.s"
@@ -2045,6 +2124,9 @@ help:
 	@echo "... boj/twoPointer/2230.o"
 	@echo "... boj/twoPointer/2230.i"
 	@echo "... boj/twoPointer/2230.s"
+	@echo "... boj/twoPointer/2470.o"
+	@echo "... boj/twoPointer/2470.i"
+	@echo "... boj/twoPointer/2470.s"
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"

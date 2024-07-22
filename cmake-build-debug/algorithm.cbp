@@ -1803,6 +1803,82 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="boj_dp_2839">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_dp_2839" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_dp_2839"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_dp_2839/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_dp_2839" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_dp_2839/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_twoPointer_2470">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_twoPointer_2470" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_twoPointer_2470"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_twoPointer_2470/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_twoPointer_2470" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_twoPointer_2470/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
 				<Option type="4"/>
@@ -1893,6 +1969,9 @@
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/dp/2579.cpp">
 			<Option target="2579"/>
 		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/dp/2839.cpp">
+			<Option target="boj_dp_2839"/>
+		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/dp/9095.cpp">
 			<Option target="boj_9095"/>
 		</Unit>
@@ -1958,6 +2037,9 @@
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2230.cpp">
 			<Option target="boj_2230"/>
+		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2470.cpp">
+			<Option target="boj_twoPointer_2470"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/merge.cpp">
 			<Option target="merge"/>
