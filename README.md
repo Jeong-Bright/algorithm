@@ -93,4 +93,4 @@
 ***
 <h2>SQL</h2>
 
-### [조건에 부합하는 중고거래 댓글 조회하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmer/164373.sql)
+### [조건에 부합하는 중고거래 댓글 조회하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/164373.sql)
