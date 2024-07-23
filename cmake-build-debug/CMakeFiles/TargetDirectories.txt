@@ -47,5 +47,6 @@
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_dp_11048.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_dp_2839.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_twoPointer_2470.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_pq_11286.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

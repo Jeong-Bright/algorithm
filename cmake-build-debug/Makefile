@@ -753,6 +753,19 @@ boj_twoPointer_2470/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/build
 .PHONY : boj_twoPointer_2470/fast
 
+#=============================================================================
+# Target rules for targets named boj_pq_11286
+
+# Build rule for target.
+boj_pq_11286: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_pq_11286
+.PHONY : boj_pq_11286
+
+# fast build rule for target.
+boj_pq_11286/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_pq_11286.dir/build.make CMakeFiles/boj_pq_11286.dir/build
+.PHONY : boj_pq_11286/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1641,6 +1654,30 @@ boj/parametricSearch/1654.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1654.dir/build.make CMakeFiles/boj_1654.dir/boj/parametricSearch/1654.cpp.s
 .PHONY : boj/parametricSearch/1654.cpp.s
 
+boj/pq/11286.o: boj/pq/11286.cpp.o
+.PHONY : boj/pq/11286.o
+
+# target to build an object file
+boj/pq/11286.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_pq_11286.dir/build.make CMakeFiles/boj_pq_11286.dir/boj/pq/11286.cpp.o
+.PHONY : boj/pq/11286.cpp.o
+
+boj/pq/11286.i: boj/pq/11286.cpp.i
+.PHONY : boj/pq/11286.i
+
+# target to preprocess a source file
+boj/pq/11286.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_pq_11286.dir/build.make CMakeFiles/boj_pq_11286.dir/boj/pq/11286.cpp.i
+.PHONY : boj/pq/11286.cpp.i
+
+boj/pq/11286.s: boj/pq/11286.cpp.s
+.PHONY : boj/pq/11286.s
+
+# target to generate assembly for a file
+boj/pq/11286.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_pq_11286.dir/build.make CMakeFiles/boj_pq_11286.dir/boj/pq/11286.cpp.s
+.PHONY : boj/pq/11286.cpp.s
+
 boj/queue/2164.o: boj/queue/2164.cpp.o
 .PHONY : boj/queue/2164.o
 
@@ -1981,6 +2018,7 @@ help:
 	@echo "... boj_greedy_1744"
 	@echo "... boj_greedy_2212"
 	@echo "... boj_implemented_2992"
+	@echo "... boj_pq_11286"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
 	@echo "... boj_twoPointer_2470"
@@ -2097,6 +2135,9 @@ help:
 	@echo "... boj/parametricSearch/1654.o"
 	@echo "... boj/parametricSearch/1654.i"
 	@echo "... boj/parametricSearch/1654.s"
+	@echo "... boj/pq/11286.o"
+	@echo "... boj/pq/11286.i"
+	@echo "... boj/pq/11286.s"
 	@echo "... boj/queue/2164.o"
 	@echo "... boj/queue/2164.i"
 	@echo "... boj/queue/2164.s"
