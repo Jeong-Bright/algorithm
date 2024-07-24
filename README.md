@@ -52,7 +52,7 @@
 ### [LCS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/9251.cpp)
 ### [파도반 수열](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/9461.cpp)
 ### [이동하기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/11048.cpp)
-### [설탕 배](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/2839.cpp)
+### [설탕 배달](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/2839.cpp)
 
 
 
