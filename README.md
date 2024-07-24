@@ -78,6 +78,8 @@
 
 ### [수 고르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/twoPointer/2230.cpp)
 ### [부분합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/twoPointer/1806.cpp)
+### [두 용액](https://github.com/Jeong-Bright/algorithm/blob/main/boj/twoPointer/2470.cpp)
+
 
 <h2>BST</h2>
 
