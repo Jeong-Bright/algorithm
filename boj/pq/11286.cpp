@@ -21,7 +21,6 @@ int main() {
     io;
     priority_queue<int, vector<int>, cmp> pQ;
     int N; cin >> N;
-    cout << endl;
     for (int i = 0; i < N; i++) {
         int num; cin >> num;
         if(num == 0) {
