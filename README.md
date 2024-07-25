@@ -99,7 +99,7 @@
 ### [트리의 부모 찾기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/11725.cpp)
 ### [트리 순회](https://github.com/Jeong-Bright/algorithm/blob/main/boj/tree/1991.cpp)
 
-<h2>Tree</h2>
+<h2>Priority Queue</h2>
 
 ### [절댓값 힙](https://github.com/Jeong-Bright/algorithm/blob/main/boj/pq/11286.cpp)
 
