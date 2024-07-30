@@ -103,4 +103,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/boj_graph_2606.dir/DependInfo.cmake"
   "CMakeFiles/boj_hash_7785.dir/DependInfo.cmake"
   "CMakeFiles/boj_hash_1620.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_31963.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_1715.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_13305.dir/DependInfo.cmake"
   )

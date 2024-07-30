@@ -805,6 +805,45 @@ boj_hash_1620/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_hash_1620.dir/build.make CMakeFiles/boj_hash_1620.dir/build
 .PHONY : boj_hash_1620/fast
 
+#=============================================================================
+# Target rules for targets named boj_greedy_31963
+
+# Build rule for target.
+boj_greedy_31963: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_31963
+.PHONY : boj_greedy_31963
+
+# fast build rule for target.
+boj_greedy_31963/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/build
+.PHONY : boj_greedy_31963/fast
+
+#=============================================================================
+# Target rules for targets named boj_greedy_1715
+
+# Build rule for target.
+boj_greedy_1715: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_1715
+.PHONY : boj_greedy_1715
+
+# fast build rule for target.
+boj_greedy_1715/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/build
+.PHONY : boj_greedy_1715/fast
+
+#=============================================================================
+# Target rules for targets named boj_greedy_13305
+
+# Build rule for target.
+boj_greedy_13305: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_13305
+.PHONY : boj_greedy_13305
+
+# fast build rule for target.
+boj_greedy_13305/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/build
+.PHONY : boj_greedy_13305/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1597,6 +1636,54 @@ boj/greedy/11501.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/boj/greedy/11501.cpp.s
 .PHONY : boj/greedy/11501.cpp.s
 
+boj/greedy/13305.o: boj/greedy/13305.cpp.o
+.PHONY : boj/greedy/13305.o
+
+# target to build an object file
+boj/greedy/13305.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/boj/greedy/13305.cpp.o
+.PHONY : boj/greedy/13305.cpp.o
+
+boj/greedy/13305.i: boj/greedy/13305.cpp.i
+.PHONY : boj/greedy/13305.i
+
+# target to preprocess a source file
+boj/greedy/13305.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/boj/greedy/13305.cpp.i
+.PHONY : boj/greedy/13305.cpp.i
+
+boj/greedy/13305.s: boj/greedy/13305.cpp.s
+.PHONY : boj/greedy/13305.s
+
+# target to generate assembly for a file
+boj/greedy/13305.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/boj/greedy/13305.cpp.s
+.PHONY : boj/greedy/13305.cpp.s
+
+boj/greedy/1715.o: boj/greedy/1715.cpp.o
+.PHONY : boj/greedy/1715.o
+
+# target to build an object file
+boj/greedy/1715.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/boj/greedy/1715.cpp.o
+.PHONY : boj/greedy/1715.cpp.o
+
+boj/greedy/1715.i: boj/greedy/1715.cpp.i
+.PHONY : boj/greedy/1715.i
+
+# target to preprocess a source file
+boj/greedy/1715.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/boj/greedy/1715.cpp.i
+.PHONY : boj/greedy/1715.cpp.i
+
+boj/greedy/1715.s: boj/greedy/1715.cpp.s
+.PHONY : boj/greedy/1715.s
+
+# target to generate assembly for a file
+boj/greedy/1715.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/boj/greedy/1715.cpp.s
+.PHONY : boj/greedy/1715.cpp.s
+
 boj/greedy/1744.o: boj/greedy/1744.cpp.o
 .PHONY : boj/greedy/1744.o
 
@@ -1668,6 +1755,30 @@ boj/greedy/2212.s: boj/greedy/2212.cpp.s
 boj/greedy/2212.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_2212.dir/build.make CMakeFiles/boj_greedy_2212.dir/boj/greedy/2212.cpp.s
 .PHONY : boj/greedy/2212.cpp.s
+
+boj/greedy/31963.o: boj/greedy/31963.cpp.o
+.PHONY : boj/greedy/31963.o
+
+# target to build an object file
+boj/greedy/31963.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/boj/greedy/31963.cpp.o
+.PHONY : boj/greedy/31963.cpp.o
+
+boj/greedy/31963.i: boj/greedy/31963.cpp.i
+.PHONY : boj/greedy/31963.i
+
+# target to preprocess a source file
+boj/greedy/31963.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/boj/greedy/31963.cpp.i
+.PHONY : boj/greedy/31963.cpp.i
+
+boj/greedy/31963.s: boj/greedy/31963.cpp.s
+.PHONY : boj/greedy/31963.s
+
+# target to generate assembly for a file
+boj/greedy/31963.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/boj/greedy/31963.cpp.s
+.PHONY : boj/greedy/31963.cpp.s
 
 boj/hash/1620.o: boj/hash/1620.cpp.o
 .PHONY : boj/hash/1620.o
@@ -2127,8 +2238,11 @@ help:
 	@echo "... boj_graph_2606"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_11501"
+	@echo "... boj_greedy_13305"
+	@echo "... boj_greedy_1715"
 	@echo "... boj_greedy_1744"
 	@echo "... boj_greedy_2212"
+	@echo "... boj_greedy_31963"
 	@echo "... boj_hash_1620"
 	@echo "... boj_hash_7785"
 	@echo "... boj_implemented_2992"
@@ -2237,6 +2351,12 @@ help:
 	@echo "... boj/greedy/11501.o"
 	@echo "... boj/greedy/11501.i"
 	@echo "... boj/greedy/11501.s"
+	@echo "... boj/greedy/13305.o"
+	@echo "... boj/greedy/13305.i"
+	@echo "... boj/greedy/13305.s"
+	@echo "... boj/greedy/1715.o"
+	@echo "... boj/greedy/1715.i"
+	@echo "... boj/greedy/1715.s"
 	@echo "... boj/greedy/1744.o"
 	@echo "... boj/greedy/1744.i"
 	@echo "... boj/greedy/1744.s"
@@ -2246,6 +2366,9 @@ help:
 	@echo "... boj/greedy/2212.o"
 	@echo "... boj/greedy/2212.i"
 	@echo "... boj/greedy/2212.s"
+	@echo "... boj/greedy/31963.o"
+	@echo "... boj/greedy/31963.i"
+	@echo "... boj/greedy/31963.s"
 	@echo "... boj/hash/1620.o"
 	@echo "... boj/hash/1620.i"
 	@echo "... boj/hash/1620.s"

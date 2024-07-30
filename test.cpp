@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 #include <queue>
+#include <algorithm>
+#include <random>
+#include <cstdlib>
 using namespace std;
 vector<int> adj[10];
 int p[10];
@@ -29,6 +32,12 @@ void dfs(int cur) {
         dfs(nxt);
     }
 }*/
+
+static bool cmp(tuple<int,int,int> &v1, tuple<int,int,int> &v2) {
+
+    return get<2>(v1) < get<2>(v2);
+}
+
 
 void bfs() {
     queue<int> q;
@@ -63,11 +72,28 @@ void postorder(int cur) {
 }
 int main() {
 
-/*
-    for (int i = 2; i <= 8; i++) {
-        adj[1].push_back(i);
-    }
-*/
+    int arr[1000005] = {};
+    int N = 10;
 
-    postorder(1);
+    /* for(int a = 0 ; a < N ; a++) {
+         cout << endl;
+         for (int b = 0; b < N; b++) {
+             for (int c = 0; c < N; c++) {
+                 for (int d = 0; d < N; d++) {
+                     for (int e = 0; e < N; e++) {
+                         for (int f = 0; f < N; f++) {
+                             cout << a * 100000 + b * 1000  0 + c * 1000 + d * 100 + e * 10 + f << ' ';
+                         }
+                     }
+                 }
+             }
+         }
+     }
+    */
+    srand(time(0));
+
+    for (int i = 0; i < 6; i++) {
+        cout << (rand() % 44) + 1 << endl;
+    }
+
 }

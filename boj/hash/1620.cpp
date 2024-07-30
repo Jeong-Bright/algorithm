@@ -9,9 +9,10 @@
 #define io ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr)
 using namespace std;
 unordered_map<string,int> um;
-string pocketMon[10000005];
+string pocketMon[100005];
 
 int main() {
+    io;
     int N, M;
     cin >> N >> M;
 
@@ -19,7 +20,6 @@ int main() {
         cin >> pocketMon[i];
         um[pocketMon[i]] = i;
     }
-    int num;
     while(M--) {
         string chk; cin >> chk;
 
@@ -27,7 +27,7 @@ int main() {
             cout << pocketMon[stoi(chk)] << endl;
         }
         else {
-            cout << um[chk];
+            cout << um[chk] << endl;
         }
     }
 }
