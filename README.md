@@ -66,6 +66,9 @@
 ### [ATM](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11399.cpp)
 ### [주식](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/11501.cpp)
 ### [수묶기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1744.cpp)
+### [안테나](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/18310.cpp)
+### [A -> B](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16953.cpp)
+### [주유소](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/13305.cpp)
 
 <h2>Binary Search</h2>
 

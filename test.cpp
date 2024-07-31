@@ -90,10 +90,5 @@ int main() {
          }
      }
     */
-    srand(time(0));
-
-    for (int i = 0; i < 6; i++) {
-        cout << (rand() % 44) + 1 << endl;
-    }
 
 }
