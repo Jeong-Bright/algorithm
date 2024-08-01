@@ -122,5 +122,5 @@
 ### [NULL 처리하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/59410.sql)
 ### [가격이 제일 비싼 식품의 정보 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/131115.sql)
 ### [진료과별 총 예약 횟수 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/132202.sql)
-### [서울에 위치한 식당 목록 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/131115.sql)
+### [서울에 위치한 식당 목록 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/131118.sql)
 
