@@ -14,6 +14,7 @@
 ### [배열 합치기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/array/11728.cpp)
 
 <h2>Sort</h2>
+
 ### [N번째 큰 수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/sort/2075.cpp)
 
 
