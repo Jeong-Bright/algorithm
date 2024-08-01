@@ -13,6 +13,11 @@
 ### [두 수의 합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/array/3273.cpp)
 ### [배열 합치기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/array/11728.cpp)
 
+<h2>Sort</h2>
+### [N번째 큰 수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/sort/2075.cpp)
+
+
+
 <h2>Stack</h2>
 
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/9012.cpp)
@@ -109,5 +114,12 @@
 ***
 <h2>SQL</h2>
 
-### [조건에 부합하는 중고거래 댓글 조회하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/164673.sql)
-### [조건에 맞는 도서와 저자 리스트 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/144854.sql)
+### [조건에 부합하는 중고거래 댓글 조회하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/164673.sql)
+### [조건에 맞는 도서와 저자 리스트 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/144854.sql)
+### [대장균들의 자식의 수 구하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/299305.sql)
+### [특정 물고기를 잡은 총 수 구하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/298518.sql)
+### [NULL 처리하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/59410.sql)
+### [가격이 제일 비싼 식품의 정보 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/131115.sql)
+### [진료과별 총 예약 횟수 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/132202.sql)
+### [서울에 위치한 식당 목록 출력하기](https://github.com/Jeong-Bright/algorithm/blob/main/programmers/sql/131115.sql)
+

@@ -883,6 +883,19 @@ boj_greedy_16953/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16953.dir/build.make CMakeFiles/boj_greedy_16953.dir/build
 .PHONY : boj_greedy_16953/fast
 
+#=============================================================================
+# Target rules for targets named boj_dp_1535
+
+# Build rule for target.
+boj_dp_1535: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_dp_1535
+.PHONY : boj_dp_1535
+
+# fast build rule for target.
+boj_dp_1535/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/build
+.PHONY : boj_dp_1535/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -2083,6 +2096,30 @@ boj/recursion/1629.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1629.dir/build.make CMakeFiles/boj_1629.dir/boj/recursion/1629.cpp.s
 .PHONY : boj/recursion/1629.cpp.s
 
+boj/sort/2075.o: boj/sort/2075.cpp.o
+.PHONY : boj/sort/2075.o
+
+# target to build an object file
+boj/sort/2075.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/boj/sort/2075.cpp.o
+.PHONY : boj/sort/2075.cpp.o
+
+boj/sort/2075.i: boj/sort/2075.cpp.i
+.PHONY : boj/sort/2075.i
+
+# target to preprocess a source file
+boj/sort/2075.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/boj/sort/2075.cpp.i
+.PHONY : boj/sort/2075.cpp.i
+
+boj/sort/2075.s: boj/sort/2075.cpp.s
+.PHONY : boj/sort/2075.s
+
+# target to generate assembly for a file
+boj/sort/2075.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/boj/sort/2075.cpp.s
+.PHONY : boj/sort/2075.cpp.s
+
 boj/stack/2493.o: boj/stack/2493.cpp.o
 .PHONY : boj/stack/2493.o
 
@@ -2344,6 +2381,7 @@ help:
 	@echo "... boj_9251"
 	@echo "... boj_dp_11048"
 	@echo "... boj_dp_1106"
+	@echo "... boj_dp_1535"
 	@echo "... boj_dp_2156"
 	@echo "... boj_dp_2839"
 	@echo "... boj_graph_2606"
@@ -2516,6 +2554,9 @@ help:
 	@echo "... boj/recursion/1629.o"
 	@echo "... boj/recursion/1629.i"
 	@echo "... boj/recursion/1629.s"
+	@echo "... boj/sort/2075.o"
+	@echo "... boj/sort/2075.i"
+	@echo "... boj/sort/2075.s"
 	@echo "... boj/stack/2493.o"
 	@echo "... boj/stack/2493.i"
 	@echo "... boj/stack/2493.s"

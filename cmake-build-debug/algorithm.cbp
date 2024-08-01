@@ -2259,6 +2259,44 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="boj_dp_1535">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_dp_1535" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_dp_1535"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_dp_1535/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_dp_1535" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_dp_1535/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
 				<Option type="4"/>
@@ -2429,6 +2467,9 @@
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/recursion/1629.cpp">
 			<Option target="boj_1629"/>
+		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/sort/2075.cpp">
+			<Option target="boj_dp_1535"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/stack/2493.cpp">
 			<Option target="2493"/>
