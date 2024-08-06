@@ -123,6 +123,8 @@ all: CMakeFiles/boj_greedy_18310.dir/all
 all: CMakeFiles/boj_implemented_8958.dir/all
 all: CMakeFiles/boj_greedy_16953.dir/all
 all: CMakeFiles/boj_dp_1535.dir/all
+all: CMakeFiles/boj_greedy_1246.dir/all
+all: CMakeFiles/boj_greedy_1946.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -190,6 +192,8 @@ clean: CMakeFiles/boj_greedy_18310.dir/clean
 clean: CMakeFiles/boj_implemented_8958.dir/clean
 clean: CMakeFiles/boj_greedy_16953.dir/clean
 clean: CMakeFiles/boj_dp_1535.dir/clean
+clean: CMakeFiles/boj_greedy_1246.dir/clean
+clean: CMakeFiles/boj_greedy_1946.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -277,12 +281,12 @@ CMakeFiles/2164.dir/clean:
 CMakeFiles/9012.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/9012.dir/build.make CMakeFiles/9012.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/9012.dir/build.make CMakeFiles/9012.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=6 "Built target 9012"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target 9012"
 .PHONY : CMakeFiles/9012.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/9012.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/9012.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/9012.dir/rule
@@ -303,7 +307,7 @@ CMakeFiles/9012.dir/clean:
 CMakeFiles/boj_11728.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11728.dir/build.make CMakeFiles/boj_11728.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11728.dir/build.make CMakeFiles/boj_11728.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=21 "Built target boj_11728"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=20 "Built target boj_11728"
 .PHONY : CMakeFiles/boj_11728.dir/all
 
 # Build rule for subdir invocation for target.
@@ -355,7 +359,7 @@ CMakeFiles/merge.dir/clean:
 CMakeFiles/boj_1463.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1463.dir/build.make CMakeFiles/boj_1463.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1463.dir/build.make CMakeFiles/boj_1463.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=29,30 "Built target boj_1463"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=28,29 "Built target boj_1463"
 .PHONY : CMakeFiles/boj_1463.dir/all
 
 # Build rule for subdir invocation for target.
@@ -381,7 +385,7 @@ CMakeFiles/boj_1463.dir/clean:
 CMakeFiles/boj_9095.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9095.dir/build.make CMakeFiles/boj_9095.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9095.dir/build.make CMakeFiles/boj_9095.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=56 "Built target boj_9095"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=54 "Built target boj_9095"
 .PHONY : CMakeFiles/boj_9095.dir/all
 
 # Build rule for subdir invocation for target.
@@ -407,12 +411,12 @@ CMakeFiles/boj_9095.dir/clean:
 CMakeFiles/boj_2108.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_2108.dir/build.make CMakeFiles/boj_2108.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_2108.dir/build.make CMakeFiles/boj_2108.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target boj_2108"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=46 "Built target boj_2108"
 .PHONY : CMakeFiles/boj_2108.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_2108.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_2108.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_2108.dir/rule
@@ -459,12 +463,12 @@ CMakeFiles/test.dir/clean:
 CMakeFiles/2579.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2579.dir/build.make CMakeFiles/2579.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/2579.dir/build.make CMakeFiles/2579.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=4,5 "Built target 2579"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=4 "Built target 2579"
 .PHONY : CMakeFiles/2579.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/2579.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/2579.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/2579.dir/rule
@@ -485,7 +489,7 @@ CMakeFiles/2579.dir/clean:
 CMakeFiles/boj_11726.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11726.dir/build.make CMakeFiles/boj_11726.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11726.dir/build.make CMakeFiles/boj_11726.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target boj_11726"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=18,19 "Built target boj_11726"
 .PHONY : CMakeFiles/boj_11726.dir/all
 
 # Build rule for subdir invocation for target.
@@ -511,7 +515,7 @@ CMakeFiles/boj_11726.dir/clean:
 CMakeFiles/boj_1149.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1149.dir/build.make CMakeFiles/boj_1149.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1149.dir/build.make CMakeFiles/boj_1149.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=14,15 "Built target boj_1149"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target boj_1149"
 .PHONY : CMakeFiles/boj_1149.dir/all
 
 # Build rule for subdir invocation for target.
@@ -537,12 +541,12 @@ CMakeFiles/boj_1149.dir/clean:
 CMakeFiles/boj_11659.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11659.dir/build.make CMakeFiles/boj_11659.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11659.dir/build.make CMakeFiles/boj_11659.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=16 "Built target boj_11659"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target boj_11659"
 .PHONY : CMakeFiles/boj_11659.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_11659.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_11659.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_11659.dir/rule
@@ -563,12 +567,12 @@ CMakeFiles/boj_11659.dir/clean:
 CMakeFiles/boj_1026.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1026.dir/build.make CMakeFiles/boj_1026.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1026.dir/build.make CMakeFiles/boj_1026.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target boj_1026"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=9 "Built target boj_1026"
 .PHONY : CMakeFiles/boj_1026.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_1026.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_1026.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_1026.dir/rule
@@ -589,12 +593,12 @@ CMakeFiles/boj_1026.dir/clean:
 CMakeFiles/boj_1931.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1931.dir/build.make CMakeFiles/boj_1931.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1931.dir/build.make CMakeFiles/boj_1931.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=46 "Built target boj_1931"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=44,45 "Built target boj_1931"
 .PHONY : CMakeFiles/boj_1931.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_1931.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_1931.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_1931.dir/rule
@@ -615,7 +619,7 @@ CMakeFiles/boj_1931.dir/clean:
 CMakeFiles/boj_1920.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1920.dir/build.make CMakeFiles/boj_1920.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1920.dir/build.make CMakeFiles/boj_1920.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=44,45 "Built target boj_1920"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=42,43 "Built target boj_1920"
 .PHONY : CMakeFiles/boj_1920.dir/all
 
 # Build rule for subdir invocation for target.
@@ -641,12 +645,12 @@ CMakeFiles/boj_1920.dir/clean:
 CMakeFiles/boj_10816.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_10816.dir/build.make CMakeFiles/boj_10816.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_10816.dir/build.make CMakeFiles/boj_10816.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=11 "Built target boj_10816"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=10,11 "Built target boj_10816"
 .PHONY : CMakeFiles/boj_10816.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_10816.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_10816.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_10816.dir/rule
@@ -667,12 +671,12 @@ CMakeFiles/boj_10816.dir/clean:
 CMakeFiles/boj_18870.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_18870.dir/build.make CMakeFiles/boj_18870.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_18870.dir/build.make CMakeFiles/boj_18870.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=42,43 "Built target boj_18870"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=41 "Built target boj_18870"
 .PHONY : CMakeFiles/boj_18870.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_18870.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_18870.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_18870.dir/rule
@@ -693,12 +697,12 @@ CMakeFiles/boj_18870.dir/clean:
 CMakeFiles/boj_1654.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1654.dir/build.make CMakeFiles/boj_1654.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1654.dir/build.make CMakeFiles/boj_1654.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target boj_1654"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=38 "Built target boj_1654"
 .PHONY : CMakeFiles/boj_1654.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_1654.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_1654.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_1654.dir/rule
@@ -719,7 +723,7 @@ CMakeFiles/boj_1654.dir/clean:
 CMakeFiles/boj_2230.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_2230.dir/build.make CMakeFiles/boj_2230.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_2230.dir/build.make CMakeFiles/boj_2230.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target boj_2230"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=47,48 "Built target boj_2230"
 .PHONY : CMakeFiles/boj_2230.dir/all
 
 # Build rule for subdir invocation for target.
@@ -745,12 +749,12 @@ CMakeFiles/boj_2230.dir/clean:
 CMakeFiles/boj_1806.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1806.dir/build.make CMakeFiles/boj_1806.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1806.dir/build.make CMakeFiles/boj_1806.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=41 "Built target boj_1806"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=39,40 "Built target boj_1806"
 .PHONY : CMakeFiles/boj_1806.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_1806.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_1806.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_1806.dir/rule
@@ -771,7 +775,7 @@ CMakeFiles/boj_1806.dir/clean:
 CMakeFiles/boj_7662.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7662.dir/build.make CMakeFiles/boj_7662.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7662.dir/build.make CMakeFiles/boj_7662.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=54,55 "Built target boj_7662"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=52,53 "Built target boj_7662"
 .PHONY : CMakeFiles/boj_7662.dir/all
 
 # Build rule for subdir invocation for target.
@@ -797,7 +801,7 @@ CMakeFiles/boj_7662.dir/clean:
 CMakeFiles/boj_1202.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1202.dir/build.make CMakeFiles/boj_1202.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1202.dir/build.make CMakeFiles/boj_1202.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=24,25 "Built target boj_1202"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=23,24 "Built target boj_1202"
 .PHONY : CMakeFiles/boj_1202.dir/all
 
 # Build rule for subdir invocation for target.
@@ -823,12 +827,12 @@ CMakeFiles/boj_1202.dir/clean:
 CMakeFiles/boj_7576.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7576.dir/build.make CMakeFiles/boj_7576.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7576.dir/build.make CMakeFiles/boj_7576.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=52,53 "Built target boj_7576"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=51 "Built target boj_7576"
 .PHONY : CMakeFiles/boj_7576.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_7576.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_7576.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_7576.dir/rule
@@ -849,12 +853,12 @@ CMakeFiles/boj_7576.dir/clean:
 CMakeFiles/boj_4179.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_4179.dir/build.make CMakeFiles/boj_4179.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_4179.dir/build.make CMakeFiles/boj_4179.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=51 "Built target boj_4179"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=49,50 "Built target boj_4179"
 .PHONY : CMakeFiles/boj_4179.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_4179.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_4179.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_4179.dir/rule
@@ -875,7 +879,7 @@ CMakeFiles/boj_4179.dir/clean:
 CMakeFiles/boj_1629.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1629.dir/build.make CMakeFiles/boj_1629.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1629.dir/build.make CMakeFiles/boj_1629.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=37,38 "Built target boj_1629"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=36,37 "Built target boj_1629"
 .PHONY : CMakeFiles/boj_1629.dir/all
 
 # Build rule for subdir invocation for target.
@@ -901,7 +905,7 @@ CMakeFiles/boj_1629.dir/clean:
 CMakeFiles/boj_11729.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11729.dir/build.make CMakeFiles/boj_11729.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11729.dir/build.make CMakeFiles/boj_11729.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=22,23 "Built target boj_11729"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target boj_11729"
 .PHONY : CMakeFiles/boj_11729.dir/all
 
 # Build rule for subdir invocation for target.
@@ -927,7 +931,7 @@ CMakeFiles/boj_11729.dir/clean:
 CMakeFiles/boj_15649.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15649.dir/build.make CMakeFiles/boj_15649.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15649.dir/build.make CMakeFiles/boj_15649.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=31 "Built target boj_15649"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=30 "Built target boj_15649"
 .PHONY : CMakeFiles/boj_15649.dir/all
 
 # Build rule for subdir invocation for target.
@@ -953,7 +957,7 @@ CMakeFiles/boj_15649.dir/clean:
 CMakeFiles/boj_15650.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15650.dir/build.make CMakeFiles/boj_15650.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15650.dir/build.make CMakeFiles/boj_15650.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=32,33 "Built target boj_15650"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=31,32 "Built target boj_15650"
 .PHONY : CMakeFiles/boj_15650.dir/all
 
 # Build rule for subdir invocation for target.
@@ -979,12 +983,12 @@ CMakeFiles/boj_15650.dir/clean:
 CMakeFiles/boj_15651.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15651.dir/build.make CMakeFiles/boj_15651.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15651.dir/build.make CMakeFiles/boj_15651.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=34,35 "Built target boj_15651"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=33 "Built target boj_15651"
 .PHONY : CMakeFiles/boj_15651.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_15651.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_15651.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_15651.dir/rule
@@ -1005,12 +1009,12 @@ CMakeFiles/boj_15651.dir/clean:
 CMakeFiles/boj_15652.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15652.dir/build.make CMakeFiles/boj_15652.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15652.dir/build.make CMakeFiles/boj_15652.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=36 "Built target boj_15652"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=34,35 "Built target boj_15652"
 .PHONY : CMakeFiles/boj_15652.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_15652.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_15652.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_15652.dir/rule
@@ -1031,7 +1035,7 @@ CMakeFiles/boj_15652.dir/clean:
 CMakeFiles/boj_14002.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_14002.dir/build.make CMakeFiles/boj_14002.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_14002.dir/build.make CMakeFiles/boj_14002.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=27,28 "Built target boj_14002"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=26,27 "Built target boj_14002"
 .PHONY : CMakeFiles/boj_14002.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1057,7 +1061,7 @@ CMakeFiles/boj_14002.dir/clean:
 CMakeFiles/boj_9251.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9251.dir/build.make CMakeFiles/boj_9251.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_9251.dir/build.make CMakeFiles/boj_9251.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target boj_9251"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=55,56 "Built target boj_9251"
 .PHONY : CMakeFiles/boj_9251.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1083,12 +1087,12 @@ CMakeFiles/boj_9251.dir/clean:
 CMakeFiles/boj_11000.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11000.dir/build.make CMakeFiles/boj_11000.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=12,13 "Built target boj_11000"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=12 "Built target boj_11000"
 .PHONY : CMakeFiles/boj_11000.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_11000.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_11000.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_11000.dir/rule
@@ -1109,12 +1113,12 @@ CMakeFiles/boj_11000.dir/clean:
 CMakeFiles/boj_11724.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_11724.dir/build.make CMakeFiles/boj_11724.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target boj_11724"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=17 "Built target boj_11724"
 .PHONY : CMakeFiles/boj_11724.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_11724.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_11724.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_11724.dir/rule
@@ -1135,7 +1139,7 @@ CMakeFiles/boj_11724.dir/clean:
 CMakeFiles/boj_1260.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1260.dir/build.make CMakeFiles/boj_1260.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1260.dir/build.make CMakeFiles/boj_1260.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=26 "Built target boj_1260"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=25 "Built target boj_1260"
 .PHONY : CMakeFiles/boj_1260.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1161,7 +1165,7 @@ CMakeFiles/boj_1260.dir/clean:
 CMakeFiles/boj_dp_1106.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1106.dir/build.make CMakeFiles/boj_dp_1106.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1106.dir/build.make CMakeFiles/boj_dp_1106.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=61 "Built target boj_dp_1106"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=59 "Built target boj_dp_1106"
 .PHONY : CMakeFiles/boj_dp_1106.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1187,12 +1191,12 @@ CMakeFiles/boj_dp_1106.dir/clean:
 CMakeFiles/boj_greedy_2212.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_2212.dir/build.make CMakeFiles/boj_greedy_2212.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_2212.dir/build.make CMakeFiles/boj_greedy_2212.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=81 "Built target boj_greedy_2212"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=81,82 "Built target boj_greedy_2212"
 .PHONY : CMakeFiles/boj_greedy_2212.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_greedy_2212.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_2212.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_greedy_2212.dir/rule
@@ -1213,12 +1217,12 @@ CMakeFiles/boj_greedy_2212.dir/clean:
 CMakeFiles/boj_greedy_11399.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11399.dir/build.make CMakeFiles/boj_greedy_11399.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11399.dir/build.make CMakeFiles/boj_greedy_11399.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=69,70 "Built target boj_greedy_11399"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=67 "Built target boj_greedy_11399"
 .PHONY : CMakeFiles/boj_greedy_11399.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_greedy_11399.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_11399.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_greedy_11399.dir/rule
@@ -1291,12 +1295,12 @@ CMakeFiles/boj_tree_1991.dir/clean:
 CMakeFiles/boj_greedy_11501.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_11501.dir/build.make CMakeFiles/boj_greedy_11501.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=71 "Built target boj_greedy_11501"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=68,69 "Built target boj_greedy_11501"
 .PHONY : CMakeFiles/boj_greedy_11501.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_greedy_11501.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_11501.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_greedy_11501.dir/rule
@@ -1317,7 +1321,7 @@ CMakeFiles/boj_greedy_11501.dir/clean:
 CMakeFiles/boj_greedy_1744.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1744.dir/build.make CMakeFiles/boj_greedy_1744.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1744.dir/build.make CMakeFiles/boj_greedy_1744.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=77,78 "Built target boj_greedy_1744"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=76,77 "Built target boj_greedy_1744"
 .PHONY : CMakeFiles/boj_greedy_1744.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1343,12 +1347,12 @@ CMakeFiles/boj_greedy_1744.dir/clean:
 CMakeFiles/boj_implemented_2992.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_2992.dir/build.make CMakeFiles/boj_implemented_2992.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=87,88 "Built target boj_implemented_2992"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=88 "Built target boj_implemented_2992"
 .PHONY : CMakeFiles/boj_implemented_2992.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_implemented_2992.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_implemented_2992.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_implemented_2992.dir/rule
@@ -1369,12 +1373,12 @@ CMakeFiles/boj_implemented_2992.dir/clean:
 CMakeFiles/boj_dp_2156.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2156.dir/build.make CMakeFiles/boj_dp_2156.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=64,65 "Built target boj_dp_2156"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=62 "Built target boj_dp_2156"
 .PHONY : CMakeFiles/boj_dp_2156.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_dp_2156.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_dp_2156.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_dp_2156.dir/rule
@@ -1395,7 +1399,7 @@ CMakeFiles/boj_dp_2156.dir/clean:
 CMakeFiles/boj_dp_11048.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_11048.dir/build.make CMakeFiles/boj_dp_11048.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=59,60 "Built target boj_dp_11048"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=57,58 "Built target boj_dp_11048"
 .PHONY : CMakeFiles/boj_dp_11048.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1421,12 +1425,12 @@ CMakeFiles/boj_dp_11048.dir/clean:
 CMakeFiles/boj_dp_2839.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_2839.dir/build.make CMakeFiles/boj_dp_2839.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=66 "Built target boj_dp_2839"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=63,64 "Built target boj_dp_2839"
 .PHONY : CMakeFiles/boj_dp_2839.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_dp_2839.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_dp_2839.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_dp_2839.dir/rule
@@ -1499,7 +1503,7 @@ CMakeFiles/boj_pq_11286.dir/clean:
 CMakeFiles/boj_graph_2606.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_2606.dir/build.make CMakeFiles/boj_graph_2606.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_2606.dir/build.make CMakeFiles/boj_graph_2606.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=67,68 "Built target boj_graph_2606"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=65,66 "Built target boj_graph_2606"
 .PHONY : CMakeFiles/boj_graph_2606.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1525,12 +1529,12 @@ CMakeFiles/boj_graph_2606.dir/clean:
 CMakeFiles/boj_hash_7785.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_hash_7785.dir/build.make CMakeFiles/boj_hash_7785.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_hash_7785.dir/build.make CMakeFiles/boj_hash_7785.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=86 "Built target boj_hash_7785"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=86,87 "Built target boj_hash_7785"
 .PHONY : CMakeFiles/boj_hash_7785.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_hash_7785.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_hash_7785.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_hash_7785.dir/rule
@@ -1577,12 +1581,12 @@ CMakeFiles/boj_hash_1620.dir/clean:
 CMakeFiles/boj_greedy_31963.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_31963.dir/build.make CMakeFiles/boj_greedy_31963.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=82,83 "Built target boj_greedy_31963"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=83 "Built target boj_greedy_31963"
 .PHONY : CMakeFiles/boj_greedy_31963.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/boj_greedy_31963.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_31963.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/boj_greedy_31963.dir/rule
@@ -1603,7 +1607,7 @@ CMakeFiles/boj_greedy_31963.dir/clean:
 CMakeFiles/boj_greedy_1715.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1715.dir/build.make CMakeFiles/boj_greedy_1715.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=76 "Built target boj_greedy_1715"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=75 "Built target boj_greedy_1715"
 .PHONY : CMakeFiles/boj_greedy_1715.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1629,7 +1633,7 @@ CMakeFiles/boj_greedy_1715.dir/clean:
 CMakeFiles/boj_greedy_13305.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=72,73 "Built target boj_greedy_13305"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=71,72 "Built target boj_greedy_13305"
 .PHONY : CMakeFiles/boj_greedy_13305.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1655,7 +1659,7 @@ CMakeFiles/boj_greedy_13305.dir/clean:
 CMakeFiles/boj_greedy_18310.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_18310.dir/build.make CMakeFiles/boj_greedy_18310.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_18310.dir/build.make CMakeFiles/boj_greedy_18310.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=79,80 "Built target boj_greedy_18310"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=78,79 "Built target boj_greedy_18310"
 .PHONY : CMakeFiles/boj_greedy_18310.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1707,7 +1711,7 @@ CMakeFiles/boj_implemented_8958.dir/clean:
 CMakeFiles/boj_greedy_16953.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16953.dir/build.make CMakeFiles/boj_greedy_16953.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16953.dir/build.make CMakeFiles/boj_greedy_16953.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=74,75 "Built target boj_greedy_16953"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=73,74 "Built target boj_greedy_16953"
 .PHONY : CMakeFiles/boj_greedy_16953.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1733,7 +1737,7 @@ CMakeFiles/boj_greedy_16953.dir/clean:
 CMakeFiles/boj_dp_1535.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=62,63 "Built target boj_dp_1535"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=60,61 "Built target boj_dp_1535"
 .PHONY : CMakeFiles/boj_dp_1535.dir/all
 
 # Build rule for subdir invocation for target.
@@ -1751,6 +1755,58 @@ boj_dp_1535: CMakeFiles/boj_dp_1535.dir/rule
 CMakeFiles/boj_dp_1535.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1535.dir/build.make CMakeFiles/boj_dp_1535.dir/clean
 .PHONY : CMakeFiles/boj_dp_1535.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/boj_greedy_1246.dir
+
+# All Build rule for target.
+CMakeFiles/boj_greedy_1246.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1246.dir/build.make CMakeFiles/boj_greedy_1246.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1246.dir/build.make CMakeFiles/boj_greedy_1246.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=70 "Built target boj_greedy_1246"
+.PHONY : CMakeFiles/boj_greedy_1246.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/boj_greedy_1246.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_1246.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/boj_greedy_1246.dir/rule
+
+# Convenience name for target.
+boj_greedy_1246: CMakeFiles/boj_greedy_1246.dir/rule
+.PHONY : boj_greedy_1246
+
+# clean rule for target.
+CMakeFiles/boj_greedy_1246.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1246.dir/build.make CMakeFiles/boj_greedy_1246.dir/clean
+.PHONY : CMakeFiles/boj_greedy_1246.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/boj_greedy_1946.dir
+
+# All Build rule for target.
+CMakeFiles/boj_greedy_1946.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1946.dir/build.make CMakeFiles/boj_greedy_1946.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1946.dir/build.make CMakeFiles/boj_greedy_1946.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles --progress-num=80 "Built target boj_greedy_1946"
+.PHONY : CMakeFiles/boj_greedy_1946.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/boj_greedy_1946.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 1
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/boj_greedy_1946.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/boj_greedy_1946.dir/rule
+
+# Convenience name for target.
+boj_greedy_1946: CMakeFiles/boj_greedy_1946.dir/rule
+.PHONY : boj_greedy_1946
+
+# clean rule for target.
+CMakeFiles/boj_greedy_1946.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1946.dir/build.make CMakeFiles/boj_greedy_1946.dir/clean
+.PHONY : CMakeFiles/boj_greedy_1946.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

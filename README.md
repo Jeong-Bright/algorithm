@@ -75,6 +75,7 @@
 ### [안테나](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/18310.cpp)
 ### [A -> B](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16953.cpp)
 ### [주유소](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/13305.cpp)
+### [신입 사원](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1946.cpp)
 
 <h2>Binary Search</h2>
 
