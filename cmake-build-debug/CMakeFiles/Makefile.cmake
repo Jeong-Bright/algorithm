@@ -112,4 +112,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/boj_dp_1535.dir/DependInfo.cmake"
   "CMakeFiles/boj_greedy_1246.dir/DependInfo.cmake"
   "CMakeFiles/boj_greedy_1946.dir/DependInfo.cmake"
+  "CMakeFiles/union-find.dir/DependInfo.cmake"
+  "CMakeFiles/boj_union-find_1717.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_1049.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_16435.dir/DependInfo.cmake"
   )

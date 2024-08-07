@@ -76,6 +76,8 @@
 ### [A -> B](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16953.cpp)
 ### [주유소](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/13305.cpp)
 ### [신입 사원](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1946.cpp)
+### [기타줄](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1049.cpp)
+### [스네이크버드](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16435.cpp)
 
 <h2>Binary Search</h2>
 
@@ -112,6 +114,11 @@
 <h2>Priority Queue</h2>
 
 ### [절댓값 힙](https://github.com/Jeong-Bright/algorithm/blob/main/boj/pq/11286.cpp)
+
+<h2>Priority Queue</h2>
+
+### [집합의 표현](https://github.com/Jeong-Bright/algorithm/blob/main/boj/union-find/1717.cpp)
+
 
 ***
 <h2>SQL</h2>

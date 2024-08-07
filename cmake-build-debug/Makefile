@@ -922,6 +922,58 @@ boj_greedy_1946/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1946.dir/build.make CMakeFiles/boj_greedy_1946.dir/build
 .PHONY : boj_greedy_1946/fast
 
+#=============================================================================
+# Target rules for targets named union-find
+
+# Build rule for target.
+union-find: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 union-find
+.PHONY : union-find
+
+# fast build rule for target.
+union-find/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/union-find.dir/build.make CMakeFiles/union-find.dir/build
+.PHONY : union-find/fast
+
+#=============================================================================
+# Target rules for targets named boj_union-find_1717
+
+# Build rule for target.
+boj_union-find_1717: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_union-find_1717
+.PHONY : boj_union-find_1717
+
+# fast build rule for target.
+boj_union-find_1717/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1717.dir/build.make CMakeFiles/boj_union-find_1717.dir/build
+.PHONY : boj_union-find_1717/fast
+
+#=============================================================================
+# Target rules for targets named boj_greedy_1049
+
+# Build rule for target.
+boj_greedy_1049: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_1049
+.PHONY : boj_greedy_1049
+
+# fast build rule for target.
+boj_greedy_1049/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1049.dir/build.make CMakeFiles/boj_greedy_1049.dir/build
+.PHONY : boj_greedy_1049/fast
+
+#=============================================================================
+# Target rules for targets named boj_greedy_16435
+
+# Build rule for target.
+boj_greedy_16435: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_16435
+.PHONY : boj_greedy_16435
+
+# fast build rule for target.
+boj_greedy_16435/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16435.dir/build.make CMakeFiles/boj_greedy_16435.dir/build
+.PHONY : boj_greedy_16435/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1666,6 +1718,30 @@ boj/greedy/1026.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1026.dir/build.make CMakeFiles/boj_1026.dir/boj/greedy/1026.cpp.s
 .PHONY : boj/greedy/1026.cpp.s
 
+boj/greedy/1049.o: boj/greedy/1049.cpp.o
+.PHONY : boj/greedy/1049.o
+
+# target to build an object file
+boj/greedy/1049.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1049.dir/build.make CMakeFiles/boj_greedy_1049.dir/boj/greedy/1049.cpp.o
+.PHONY : boj/greedy/1049.cpp.o
+
+boj/greedy/1049.i: boj/greedy/1049.cpp.i
+.PHONY : boj/greedy/1049.i
+
+# target to preprocess a source file
+boj/greedy/1049.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1049.dir/build.make CMakeFiles/boj_greedy_1049.dir/boj/greedy/1049.cpp.i
+.PHONY : boj/greedy/1049.cpp.i
+
+boj/greedy/1049.s: boj/greedy/1049.cpp.s
+.PHONY : boj/greedy/1049.s
+
+# target to generate assembly for a file
+boj/greedy/1049.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1049.dir/build.make CMakeFiles/boj_greedy_1049.dir/boj/greedy/1049.cpp.s
+.PHONY : boj/greedy/1049.cpp.s
+
 boj/greedy/11399.o: boj/greedy/11399.cpp.o
 .PHONY : boj/greedy/11399.o
 
@@ -1737,6 +1813,30 @@ boj/greedy/13305.s: boj/greedy/13305.cpp.s
 boj/greedy/13305.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_13305.dir/build.make CMakeFiles/boj_greedy_13305.dir/boj/greedy/13305.cpp.s
 .PHONY : boj/greedy/13305.cpp.s
+
+boj/greedy/16435.o: boj/greedy/16435.cpp.o
+.PHONY : boj/greedy/16435.o
+
+# target to build an object file
+boj/greedy/16435.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16435.dir/build.make CMakeFiles/boj_greedy_16435.dir/boj/greedy/16435.cpp.o
+.PHONY : boj/greedy/16435.cpp.o
+
+boj/greedy/16435.i: boj/greedy/16435.cpp.i
+.PHONY : boj/greedy/16435.i
+
+# target to preprocess a source file
+boj/greedy/16435.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16435.dir/build.make CMakeFiles/boj_greedy_16435.dir/boj/greedy/16435.cpp.i
+.PHONY : boj/greedy/16435.cpp.i
+
+boj/greedy/16435.s: boj/greedy/16435.cpp.s
+.PHONY : boj/greedy/16435.s
+
+# target to generate assembly for a file
+boj/greedy/16435.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_16435.dir/build.make CMakeFiles/boj_greedy_16435.dir/boj/greedy/16435.cpp.s
+.PHONY : boj/greedy/16435.cpp.s
 
 boj/greedy/16953.o: boj/greedy/16953.cpp.o
 .PHONY : boj/greedy/16953.o
@@ -2362,6 +2462,30 @@ boj/twoPointer/2470.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_twoPointer_2470.dir/build.make CMakeFiles/boj_twoPointer_2470.dir/boj/twoPointer/2470.cpp.s
 .PHONY : boj/twoPointer/2470.cpp.s
 
+boj/union-find/1717.o: boj/union-find/1717.cpp.o
+.PHONY : boj/union-find/1717.o
+
+# target to build an object file
+boj/union-find/1717.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1717.dir/build.make CMakeFiles/boj_union-find_1717.dir/boj/union-find/1717.cpp.o
+.PHONY : boj/union-find/1717.cpp.o
+
+boj/union-find/1717.i: boj/union-find/1717.cpp.i
+.PHONY : boj/union-find/1717.i
+
+# target to preprocess a source file
+boj/union-find/1717.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1717.dir/build.make CMakeFiles/boj_union-find_1717.dir/boj/union-find/1717.cpp.i
+.PHONY : boj/union-find/1717.cpp.i
+
+boj/union-find/1717.s: boj/union-find/1717.cpp.s
+.PHONY : boj/union-find/1717.s
+
+# target to generate assembly for a file
+boj/union-find/1717.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1717.dir/build.make CMakeFiles/boj_union-find_1717.dir/boj/union-find/1717.cpp.s
+.PHONY : boj/union-find/1717.cpp.s
+
 merge.o: merge.cpp.o
 .PHONY : merge.o
 
@@ -2409,6 +2533,30 @@ test.s: test.cpp.s
 test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/test.dir/build.make CMakeFiles/test.dir/test.cpp.s
 .PHONY : test.cpp.s
+
+union-find.o: union-find.cpp.o
+.PHONY : union-find.o
+
+# target to build an object file
+union-find.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/union-find.dir/build.make CMakeFiles/union-find.dir/union-find.cpp.o
+.PHONY : union-find.cpp.o
+
+union-find.i: union-find.cpp.i
+.PHONY : union-find.i
+
+# target to preprocess a source file
+union-find.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/union-find.dir/build.make CMakeFiles/union-find.dir/union-find.cpp.i
+.PHONY : union-find.cpp.i
+
+union-find.s: union-find.cpp.s
+.PHONY : union-find.s
+
+# target to generate assembly for a file
+union-find.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/union-find.dir/build.make CMakeFiles/union-find.dir/union-find.cpp.s
+.PHONY : union-find.cpp.s
 
 # Help Target
 help:
@@ -2459,10 +2607,12 @@ help:
 	@echo "... boj_dp_2156"
 	@echo "... boj_dp_2839"
 	@echo "... boj_graph_2606"
+	@echo "... boj_greedy_1049"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_11501"
 	@echo "... boj_greedy_1246"
 	@echo "... boj_greedy_13305"
+	@echo "... boj_greedy_16435"
 	@echo "... boj_greedy_16953"
 	@echo "... boj_greedy_1715"
 	@echo "... boj_greedy_1744"
@@ -2478,8 +2628,10 @@ help:
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
 	@echo "... boj_twoPointer_2470"
+	@echo "... boj_union-find_1717"
 	@echo "... merge"
 	@echo "... test"
+	@echo "... union-find"
 	@echo "... boj/11000.o"
 	@echo "... boj/11000.i"
 	@echo "... boj/11000.s"
@@ -2573,6 +2725,9 @@ help:
 	@echo "... boj/greedy/1026.o"
 	@echo "... boj/greedy/1026.i"
 	@echo "... boj/greedy/1026.s"
+	@echo "... boj/greedy/1049.o"
+	@echo "... boj/greedy/1049.i"
+	@echo "... boj/greedy/1049.s"
 	@echo "... boj/greedy/11399.o"
 	@echo "... boj/greedy/11399.i"
 	@echo "... boj/greedy/11399.s"
@@ -2582,6 +2737,9 @@ help:
 	@echo "... boj/greedy/13305.o"
 	@echo "... boj/greedy/13305.i"
 	@echo "... boj/greedy/13305.s"
+	@echo "... boj/greedy/16435.o"
+	@echo "... boj/greedy/16435.i"
+	@echo "... boj/greedy/16435.s"
 	@echo "... boj/greedy/16953.o"
 	@echo "... boj/greedy/16953.i"
 	@echo "... boj/greedy/16953.s"
@@ -2660,12 +2818,18 @@ help:
 	@echo "... boj/twoPointer/2470.o"
 	@echo "... boj/twoPointer/2470.i"
 	@echo "... boj/twoPointer/2470.s"
+	@echo "... boj/union-find/1717.o"
+	@echo "... boj/union-find/1717.i"
+	@echo "... boj/union-find/1717.s"
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"
 	@echo "... test.o"
 	@echo "... test.i"
 	@echo "... test.s"
+	@echo "... union-find.o"
+	@echo "... union-find.i"
+	@echo "... union-find.s"
 .PHONY : help
 
 

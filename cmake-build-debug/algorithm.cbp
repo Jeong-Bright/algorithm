@@ -2373,6 +2373,158 @@
 					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="union-find">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/union-find" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 union-find"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="union-find/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/union-find" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 union-find/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_union-find_1717">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_union-find_1717" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_union-find_1717"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_union-find_1717/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_union-find_1717" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_union-find_1717/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_greedy_1049">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_1049" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_1049"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_greedy_1049/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_1049" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_1049/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_greedy_16435">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_16435" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_16435"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="boj_greedy_16435/fast">
+				<Option output="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/boj_greedy_16435" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 boj_greedy_16435/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 			<Target title="edit_cache">
 				<Option working_dir="/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug"/>
 				<Option type="4"/>
@@ -2487,6 +2639,9 @@
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/1026.cpp">
 			<Option target="boj_1026"/>
 		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/1049.cpp">
+			<Option target="boj_greedy_1049"/>
+		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/11399.cpp">
 			<Option target="boj_greedy_11399"/>
 		</Unit>
@@ -2495,6 +2650,9 @@
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/13305.cpp">
 			<Option target="boj_greedy_13305"/>
+		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/16435.cpp">
+			<Option target="boj_greedy_16435"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/greedy/16953.cpp">
 			<Option target="boj_greedy_16953"/>
@@ -2574,11 +2732,17 @@
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/twoPointer/2470.cpp">
 			<Option target="boj_twoPointer_2470"/>
 		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/boj/union-find/1717.cpp">
+			<Option target="boj_union-find_1717"/>
+		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/merge.cpp">
 			<Option target="merge"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/test.cpp">
 			<Option target="test"/>
+		</Unit>
+		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/union-find.cpp">
+			<Option target="union-find"/>
 		</Unit>
 		<Unit filename="/Users/jeonjeonghyeon/Documents/algorithm/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
