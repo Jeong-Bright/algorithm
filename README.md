@@ -23,6 +23,7 @@
 
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/9012.cpp)
 ### [탑](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/2493.cpp)
+### [오큰수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/17298.cpp)
 
 <h2>Queue</h2>
 
@@ -78,6 +79,7 @@
 ### [신입 사원](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1946.cpp)
 ### [기타줄](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1049.cpp)
 ### [스네이크버드](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16435.cpp)
+### [도서관](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1461.cpp)
 
 <h2>Binary Search</h2>
 
