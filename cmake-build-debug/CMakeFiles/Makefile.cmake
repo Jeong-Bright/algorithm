@@ -121,4 +121,9 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/boj_stack_17299.dir/DependInfo.cmake"
   "CMakeFiles/boj_stack_17298.dir/DependInfo.cmake"
   "CMakeFiles/boj_stack_2504.dir/DependInfo.cmake"
+  "CMakeFiles/boj_bfs_1926.dir/DependInfo.cmake"
+  "CMakeFiles/boj_bfs_1012.dir/DependInfo.cmake"
+  "CMakeFiles/boj_graph_5567.dir/DependInfo.cmake"
+  "CMakeFiles/boj_graph_1389.dir/DependInfo.cmake"
+  "CMakeFiles/boj_graph_6118.dir/DependInfo.cmake"
   )

@@ -1039,6 +1039,71 @@ boj_stack_2504/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_2504.dir/build.make CMakeFiles/boj_stack_2504.dir/build
 .PHONY : boj_stack_2504/fast
 
+#=============================================================================
+# Target rules for targets named boj_bfs_1926
+
+# Build rule for target.
+boj_bfs_1926: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_bfs_1926
+.PHONY : boj_bfs_1926
+
+# fast build rule for target.
+boj_bfs_1926/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1926.dir/build.make CMakeFiles/boj_bfs_1926.dir/build
+.PHONY : boj_bfs_1926/fast
+
+#=============================================================================
+# Target rules for targets named boj_bfs_1012
+
+# Build rule for target.
+boj_bfs_1012: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_bfs_1012
+.PHONY : boj_bfs_1012
+
+# fast build rule for target.
+boj_bfs_1012/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/build
+.PHONY : boj_bfs_1012/fast
+
+#=============================================================================
+# Target rules for targets named boj_graph_5567
+
+# Build rule for target.
+boj_graph_5567: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_graph_5567
+.PHONY : boj_graph_5567
+
+# fast build rule for target.
+boj_graph_5567/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_5567.dir/build.make CMakeFiles/boj_graph_5567.dir/build
+.PHONY : boj_graph_5567/fast
+
+#=============================================================================
+# Target rules for targets named boj_graph_1389
+
+# Build rule for target.
+boj_graph_1389: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_graph_1389
+.PHONY : boj_graph_1389
+
+# fast build rule for target.
+boj_graph_1389/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_1389.dir/build.make CMakeFiles/boj_graph_1389.dir/build
+.PHONY : boj_graph_1389/fast
+
+#=============================================================================
+# Target rules for targets named boj_graph_6118
+
+# Build rule for target.
+boj_graph_6118: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_graph_6118
+.PHONY : boj_graph_6118
+
+# fast build rule for target.
+boj_graph_6118/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_6118.dir/build.make CMakeFiles/boj_graph_6118.dir/build
+.PHONY : boj_graph_6118/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1254,6 +1319,54 @@ boj/backTracking/15652.s: boj/backTracking/15652.cpp.s
 boj/backTracking/15652.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15652.dir/build.make CMakeFiles/boj_15652.dir/boj/backTracking/15652.cpp.s
 .PHONY : boj/backTracking/15652.cpp.s
+
+boj/bfs/1012.o: boj/bfs/1012.cpp.o
+.PHONY : boj/bfs/1012.o
+
+# target to build an object file
+boj/bfs/1012.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/boj/bfs/1012.cpp.o
+.PHONY : boj/bfs/1012.cpp.o
+
+boj/bfs/1012.i: boj/bfs/1012.cpp.i
+.PHONY : boj/bfs/1012.i
+
+# target to preprocess a source file
+boj/bfs/1012.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/boj/bfs/1012.cpp.i
+.PHONY : boj/bfs/1012.cpp.i
+
+boj/bfs/1012.s: boj/bfs/1012.cpp.s
+.PHONY : boj/bfs/1012.s
+
+# target to generate assembly for a file
+boj/bfs/1012.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/boj/bfs/1012.cpp.s
+.PHONY : boj/bfs/1012.cpp.s
+
+boj/bfs/1926.o: boj/bfs/1926.cpp.o
+.PHONY : boj/bfs/1926.o
+
+# target to build an object file
+boj/bfs/1926.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1926.dir/build.make CMakeFiles/boj_bfs_1926.dir/boj/bfs/1926.cpp.o
+.PHONY : boj/bfs/1926.cpp.o
+
+boj/bfs/1926.i: boj/bfs/1926.cpp.i
+.PHONY : boj/bfs/1926.i
+
+# target to preprocess a source file
+boj/bfs/1926.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1926.dir/build.make CMakeFiles/boj_bfs_1926.dir/boj/bfs/1926.cpp.i
+.PHONY : boj/bfs/1926.cpp.i
+
+boj/bfs/1926.s: boj/bfs/1926.cpp.s
+.PHONY : boj/bfs/1926.s
+
+# target to generate assembly for a file
+boj/bfs/1926.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1926.dir/build.make CMakeFiles/boj_bfs_1926.dir/boj/bfs/1926.cpp.s
+.PHONY : boj/bfs/1926.cpp.s
 
 boj/bfs/2667.o: boj/bfs/2667.cpp.o
 .PHONY : boj/bfs/2667.o
@@ -1759,6 +1872,30 @@ boj/graph/1260.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1260.dir/build.make CMakeFiles/boj_1260.dir/boj/graph/1260.cpp.s
 .PHONY : boj/graph/1260.cpp.s
 
+boj/graph/1389.o: boj/graph/1389.cpp.o
+.PHONY : boj/graph/1389.o
+
+# target to build an object file
+boj/graph/1389.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_1389.dir/build.make CMakeFiles/boj_graph_1389.dir/boj/graph/1389.cpp.o
+.PHONY : boj/graph/1389.cpp.o
+
+boj/graph/1389.i: boj/graph/1389.cpp.i
+.PHONY : boj/graph/1389.i
+
+# target to preprocess a source file
+boj/graph/1389.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_1389.dir/build.make CMakeFiles/boj_graph_1389.dir/boj/graph/1389.cpp.i
+.PHONY : boj/graph/1389.cpp.i
+
+boj/graph/1389.s: boj/graph/1389.cpp.s
+.PHONY : boj/graph/1389.s
+
+# target to generate assembly for a file
+boj/graph/1389.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_1389.dir/build.make CMakeFiles/boj_graph_1389.dir/boj/graph/1389.cpp.s
+.PHONY : boj/graph/1389.cpp.s
+
 boj/graph/2606.o: boj/graph/2606.cpp.o
 .PHONY : boj/graph/2606.o
 
@@ -1782,6 +1919,54 @@ boj/graph/2606.s: boj/graph/2606.cpp.s
 boj/graph/2606.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_2606.dir/build.make CMakeFiles/boj_graph_2606.dir/boj/graph/2606.cpp.s
 .PHONY : boj/graph/2606.cpp.s
+
+boj/graph/5567.o: boj/graph/5567.cpp.o
+.PHONY : boj/graph/5567.o
+
+# target to build an object file
+boj/graph/5567.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_5567.dir/build.make CMakeFiles/boj_graph_5567.dir/boj/graph/5567.cpp.o
+.PHONY : boj/graph/5567.cpp.o
+
+boj/graph/5567.i: boj/graph/5567.cpp.i
+.PHONY : boj/graph/5567.i
+
+# target to preprocess a source file
+boj/graph/5567.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_5567.dir/build.make CMakeFiles/boj_graph_5567.dir/boj/graph/5567.cpp.i
+.PHONY : boj/graph/5567.cpp.i
+
+boj/graph/5567.s: boj/graph/5567.cpp.s
+.PHONY : boj/graph/5567.s
+
+# target to generate assembly for a file
+boj/graph/5567.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_5567.dir/build.make CMakeFiles/boj_graph_5567.dir/boj/graph/5567.cpp.s
+.PHONY : boj/graph/5567.cpp.s
+
+boj/graph/6118.o: boj/graph/6118.cpp.o
+.PHONY : boj/graph/6118.o
+
+# target to build an object file
+boj/graph/6118.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_6118.dir/build.make CMakeFiles/boj_graph_6118.dir/boj/graph/6118.cpp.o
+.PHONY : boj/graph/6118.cpp.o
+
+boj/graph/6118.i: boj/graph/6118.cpp.i
+.PHONY : boj/graph/6118.i
+
+# target to preprocess a source file
+boj/graph/6118.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_6118.dir/build.make CMakeFiles/boj_graph_6118.dir/boj/graph/6118.cpp.i
+.PHONY : boj/graph/6118.cpp.i
+
+boj/graph/6118.s: boj/graph/6118.cpp.s
+.PHONY : boj/graph/6118.s
+
+# target to generate assembly for a file
+boj/graph/6118.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_graph_6118.dir/build.make CMakeFiles/boj_graph_6118.dir/boj/graph/6118.cpp.s
+.PHONY : boj/graph/6118.cpp.s
 
 boj/greedy/1026.o: boj/greedy/1026.cpp.o
 .PHONY : boj/greedy/1026.o
@@ -2786,13 +2971,18 @@ help:
 	@echo "... boj_7662"
 	@echo "... boj_9095"
 	@echo "... boj_9251"
+	@echo "... boj_bfs_1012"
+	@echo "... boj_bfs_1926"
 	@echo "... boj_bfs_2667"
 	@echo "... boj_dp_11048"
 	@echo "... boj_dp_1106"
 	@echo "... boj_dp_1535"
 	@echo "... boj_dp_2156"
 	@echo "... boj_dp_2839"
+	@echo "... boj_graph_1389"
 	@echo "... boj_graph_2606"
+	@echo "... boj_graph_5567"
+	@echo "... boj_graph_6118"
 	@echo "... boj_greedy_1049"
 	@echo "... boj_greedy_11399"
 	@echo "... boj_greedy_11501"
@@ -2849,6 +3039,12 @@ help:
 	@echo "... boj/backTracking/15652.o"
 	@echo "... boj/backTracking/15652.i"
 	@echo "... boj/backTracking/15652.s"
+	@echo "... boj/bfs/1012.o"
+	@echo "... boj/bfs/1012.i"
+	@echo "... boj/bfs/1012.s"
+	@echo "... boj/bfs/1926.o"
+	@echo "... boj/bfs/1926.i"
+	@echo "... boj/bfs/1926.s"
 	@echo "... boj/bfs/2667.o"
 	@echo "... boj/bfs/2667.i"
 	@echo "... boj/bfs/2667.s"
@@ -2912,9 +3108,18 @@ help:
 	@echo "... boj/graph/1260.o"
 	@echo "... boj/graph/1260.i"
 	@echo "... boj/graph/1260.s"
+	@echo "... boj/graph/1389.o"
+	@echo "... boj/graph/1389.i"
+	@echo "... boj/graph/1389.s"
 	@echo "... boj/graph/2606.o"
 	@echo "... boj/graph/2606.i"
 	@echo "... boj/graph/2606.s"
+	@echo "... boj/graph/5567.o"
+	@echo "... boj/graph/5567.i"
+	@echo "... boj/graph/5567.s"
+	@echo "... boj/graph/6118.o"
+	@echo "... boj/graph/6118.i"
+	@echo "... boj/graph/6118.s"
 	@echo "... boj/greedy/1026.o"
 	@echo "... boj/greedy/1026.i"
 	@echo "... boj/greedy/1026.s"
