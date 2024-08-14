@@ -108,6 +108,7 @@
 ### [DFS와 BFS](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/1260.cpp)
 ### [바이러스](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/2606.cpp)
 ### [숨바꼭질](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/6118.cpp)
+### [촌수계산](https://github.com/Jeong-Bright/algorithm/blob/main/boj/graph/2644.cpp)
 
 <h2>Tree</h2>
 
