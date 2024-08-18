@@ -91,7 +91,9 @@
 						73,
 						74,
 						75,
-						76
+						76,
+						77,
+						78
 					]
 				}
 			],
@@ -182,7 +184,9 @@
 						73,
 						74,
 						75,
-						76
+						76,
+						77,
+						78
 					]
 				}
 			],
@@ -473,6 +477,20 @@
 					"id" : "boj_dp_1535::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_dp_1535-Debug-c816e8310f9074bd67ba.json",
 					"name" : "boj_dp_1535",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_dp_1904::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_dp_1904-Debug-24cecc340430abb054a7.json",
+					"name" : "boj_dp_1904",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_dp_1912::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_dp_1912-Debug-cd3add6abc0bec8a484b.json",
+					"name" : "boj_dp_1912",
 					"projectIndex" : 0
 				},
 				{

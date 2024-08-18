@@ -24,6 +24,7 @@
 ### [괄호](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/9012.cpp)
 ### [탑](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/2493.cpp)
 ### [오큰수](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/17298.cpp)
+### [오아시스 재결합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/stack/3015.cpp)
 
 <h2>Queue</h2>
 
@@ -49,6 +50,7 @@
 <h2>BFS</h2>
 
 ### [토마토](https://github.com/Jeong-Bright/algorithm/blob/main/boj/bfs/7576.cpp)
+### [유기농 배추](https://github.com/Jeong-Bright/algorithm/blob/main/boj/bfs/1012.cpp)
 
 <h2>DP</h2>
 

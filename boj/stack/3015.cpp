@@ -7,35 +7,32 @@ using namespace std;
 
 int main() {
 
-    stack<pair<int,int>> stk, cmpStk;
-    int N, cnt = 0; cin >> N;
-
+    stack<pair<long long,long long>> stk;
+    long long N, cnt = 0; cin >> N;
+    if(N == 1) {cout << 0; return 0;}
     for (int i = 0; i < N; i++) {
         int num; cin >> num;
-        cmpStk.push({num,0});
 
-        if(cmpStk.top().first == num) {
-            cmpStk.top().second++;
+        while(!stk.empty() && stk.top().first < num) {
+            cnt += stk.top().second;
+            stk.pop();
         }
 
         if(stk.empty()) {
-            stk.emplace(num,0);
+            stk.emplace(num,1);
         }
 
-        else {
-            if(stk.top().first < num) {
+        else if (stk.top().first == num) {
+                long long temp = stk.top().second;
+                cnt += temp;
                 stk.pop();
-                cnt++;
-                stk.emplace(num, 0);
-            }
-            else if (stk.top().first > num) {
-                cnt++;
-            }
+                if (!stk.empty()) cnt++;
+                stk.emplace(num, ++temp);
+        } else {
+            cnt++;
+            stk.emplace(num, 1);
         }
-
-
 
     }
-
-
+    cout << cnt;
 }

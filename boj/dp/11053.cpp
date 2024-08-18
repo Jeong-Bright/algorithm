@@ -18,6 +18,7 @@ int main() {
 
     for (int i = 0; i < N; i++) {
         for (int j = 0; j < i; j++) {
+            cout << arr[i] << ' ' << arr[j] << endl;
             if(arr[i] > arr[j]){
                 DP[i] = max(DP[i], DP[j] + 1);
             }
