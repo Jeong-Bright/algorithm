@@ -82,6 +82,7 @@
 ### [기타줄](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1049.cpp)
 ### [스네이크버드](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/16435.cpp)
 ### [도서관](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1461.cpp)
+### [수들의 합](https://github.com/Jeong-Bright/algorithm/blob/main/boj/greedy/1789.cpp)
 
 <h2>Binary Search</h2>
 

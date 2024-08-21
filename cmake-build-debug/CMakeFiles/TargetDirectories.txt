@@ -77,5 +77,13 @@
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_stack_3015.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_dp_1904.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_dp_1912.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_bfs_10026.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_bfs_1697.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_union-find_1976.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_sort_1181.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_sort_18110.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_implemented_1018.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_stack_4949.dir
+/Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/boj_greedy_1789.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
 /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

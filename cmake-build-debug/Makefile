@@ -1143,6 +1143,110 @@ boj_dp_1912/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_dp_1912.dir/build.make CMakeFiles/boj_dp_1912.dir/build
 .PHONY : boj_dp_1912/fast
 
+#=============================================================================
+# Target rules for targets named boj_bfs_10026
+
+# Build rule for target.
+boj_bfs_10026: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_bfs_10026
+.PHONY : boj_bfs_10026
+
+# fast build rule for target.
+boj_bfs_10026/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_10026.dir/build.make CMakeFiles/boj_bfs_10026.dir/build
+.PHONY : boj_bfs_10026/fast
+
+#=============================================================================
+# Target rules for targets named boj_bfs_1697
+
+# Build rule for target.
+boj_bfs_1697: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_bfs_1697
+.PHONY : boj_bfs_1697
+
+# fast build rule for target.
+boj_bfs_1697/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1697.dir/build.make CMakeFiles/boj_bfs_1697.dir/build
+.PHONY : boj_bfs_1697/fast
+
+#=============================================================================
+# Target rules for targets named boj_union-find_1976
+
+# Build rule for target.
+boj_union-find_1976: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_union-find_1976
+.PHONY : boj_union-find_1976
+
+# fast build rule for target.
+boj_union-find_1976/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1976.dir/build.make CMakeFiles/boj_union-find_1976.dir/build
+.PHONY : boj_union-find_1976/fast
+
+#=============================================================================
+# Target rules for targets named boj_sort_1181
+
+# Build rule for target.
+boj_sort_1181: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_sort_1181
+.PHONY : boj_sort_1181
+
+# fast build rule for target.
+boj_sort_1181/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_1181.dir/build.make CMakeFiles/boj_sort_1181.dir/build
+.PHONY : boj_sort_1181/fast
+
+#=============================================================================
+# Target rules for targets named boj_sort_18110
+
+# Build rule for target.
+boj_sort_18110: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_sort_18110
+.PHONY : boj_sort_18110
+
+# fast build rule for target.
+boj_sort_18110/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_18110.dir/build.make CMakeFiles/boj_sort_18110.dir/build
+.PHONY : boj_sort_18110/fast
+
+#=============================================================================
+# Target rules for targets named boj_implemented_1018
+
+# Build rule for target.
+boj_implemented_1018: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_implemented_1018
+.PHONY : boj_implemented_1018
+
+# fast build rule for target.
+boj_implemented_1018/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_1018.dir/build.make CMakeFiles/boj_implemented_1018.dir/build
+.PHONY : boj_implemented_1018/fast
+
+#=============================================================================
+# Target rules for targets named boj_stack_4949
+
+# Build rule for target.
+boj_stack_4949: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_stack_4949
+.PHONY : boj_stack_4949
+
+# fast build rule for target.
+boj_stack_4949/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_4949.dir/build.make CMakeFiles/boj_stack_4949.dir/build
+.PHONY : boj_stack_4949/fast
+
+#=============================================================================
+# Target rules for targets named boj_greedy_1789
+
+# Build rule for target.
+boj_greedy_1789: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_1789
+.PHONY : boj_greedy_1789
+
+# fast build rule for target.
+boj_greedy_1789/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1789.dir/build.make CMakeFiles/boj_greedy_1789.dir/build
+.PHONY : boj_greedy_1789/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1359,6 +1463,30 @@ boj/backTracking/15652.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_15652.dir/build.make CMakeFiles/boj_15652.dir/boj/backTracking/15652.cpp.s
 .PHONY : boj/backTracking/15652.cpp.s
 
+boj/bfs/10026.o: boj/bfs/10026.cpp.o
+.PHONY : boj/bfs/10026.o
+
+# target to build an object file
+boj/bfs/10026.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_10026.dir/build.make CMakeFiles/boj_bfs_10026.dir/boj/bfs/10026.cpp.o
+.PHONY : boj/bfs/10026.cpp.o
+
+boj/bfs/10026.i: boj/bfs/10026.cpp.i
+.PHONY : boj/bfs/10026.i
+
+# target to preprocess a source file
+boj/bfs/10026.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_10026.dir/build.make CMakeFiles/boj_bfs_10026.dir/boj/bfs/10026.cpp.i
+.PHONY : boj/bfs/10026.cpp.i
+
+boj/bfs/10026.s: boj/bfs/10026.cpp.s
+.PHONY : boj/bfs/10026.s
+
+# target to generate assembly for a file
+boj/bfs/10026.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_10026.dir/build.make CMakeFiles/boj_bfs_10026.dir/boj/bfs/10026.cpp.s
+.PHONY : boj/bfs/10026.cpp.s
+
 boj/bfs/1012.o: boj/bfs/1012.cpp.o
 .PHONY : boj/bfs/1012.o
 
@@ -1382,6 +1510,30 @@ boj/bfs/1012.s: boj/bfs/1012.cpp.s
 boj/bfs/1012.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/boj/bfs/1012.cpp.s
 .PHONY : boj/bfs/1012.cpp.s
+
+boj/bfs/1697.o: boj/bfs/1697.cpp.o
+.PHONY : boj/bfs/1697.o
+
+# target to build an object file
+boj/bfs/1697.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1697.dir/build.make CMakeFiles/boj_bfs_1697.dir/boj/bfs/1697.cpp.o
+.PHONY : boj/bfs/1697.cpp.o
+
+boj/bfs/1697.i: boj/bfs/1697.cpp.i
+.PHONY : boj/bfs/1697.i
+
+# target to preprocess a source file
+boj/bfs/1697.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1697.dir/build.make CMakeFiles/boj_bfs_1697.dir/boj/bfs/1697.cpp.i
+.PHONY : boj/bfs/1697.cpp.i
+
+boj/bfs/1697.s: boj/bfs/1697.cpp.s
+.PHONY : boj/bfs/1697.s
+
+# target to generate assembly for a file
+boj/bfs/1697.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1697.dir/build.make CMakeFiles/boj_bfs_1697.dir/boj/bfs/1697.cpp.s
+.PHONY : boj/bfs/1697.cpp.s
 
 boj/bfs/1926.o: boj/bfs/1926.cpp.o
 .PHONY : boj/bfs/1926.o
@@ -2343,6 +2495,30 @@ boj/greedy/1744.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1744.dir/build.make CMakeFiles/boj_greedy_1744.dir/boj/greedy/1744.cpp.s
 .PHONY : boj/greedy/1744.cpp.s
 
+boj/greedy/1789.o: boj/greedy/1789.cpp.o
+.PHONY : boj/greedy/1789.o
+
+# target to build an object file
+boj/greedy/1789.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1789.dir/build.make CMakeFiles/boj_greedy_1789.dir/boj/greedy/1789.cpp.o
+.PHONY : boj/greedy/1789.cpp.o
+
+boj/greedy/1789.i: boj/greedy/1789.cpp.i
+.PHONY : boj/greedy/1789.i
+
+# target to preprocess a source file
+boj/greedy/1789.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1789.dir/build.make CMakeFiles/boj_greedy_1789.dir/boj/greedy/1789.cpp.i
+.PHONY : boj/greedy/1789.cpp.i
+
+boj/greedy/1789.s: boj/greedy/1789.cpp.s
+.PHONY : boj/greedy/1789.s
+
+# target to generate assembly for a file
+boj/greedy/1789.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1789.dir/build.make CMakeFiles/boj_greedy_1789.dir/boj/greedy/1789.cpp.s
+.PHONY : boj/greedy/1789.cpp.s
+
 boj/greedy/18310.o: boj/greedy/18310.cpp.o
 .PHONY : boj/greedy/18310.o
 
@@ -2510,6 +2686,30 @@ boj/hash/7785.s: boj/hash/7785.cpp.s
 boj/hash/7785.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_hash_7785.dir/build.make CMakeFiles/boj_hash_7785.dir/boj/hash/7785.cpp.s
 .PHONY : boj/hash/7785.cpp.s
+
+boj/implemented/1018.o: boj/implemented/1018.cpp.o
+.PHONY : boj/implemented/1018.o
+
+# target to build an object file
+boj/implemented/1018.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_1018.dir/build.make CMakeFiles/boj_implemented_1018.dir/boj/implemented/1018.cpp.o
+.PHONY : boj/implemented/1018.cpp.o
+
+boj/implemented/1018.i: boj/implemented/1018.cpp.i
+.PHONY : boj/implemented/1018.i
+
+# target to preprocess a source file
+boj/implemented/1018.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_1018.dir/build.make CMakeFiles/boj_implemented_1018.dir/boj/implemented/1018.cpp.i
+.PHONY : boj/implemented/1018.cpp.i
+
+boj/implemented/1018.s: boj/implemented/1018.cpp.s
+.PHONY : boj/implemented/1018.s
+
+# target to generate assembly for a file
+boj/implemented/1018.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_1018.dir/build.make CMakeFiles/boj_implemented_1018.dir/boj/implemented/1018.cpp.s
+.PHONY : boj/implemented/1018.cpp.s
 
 boj/implemented/2108.o: boj/implemented/2108.cpp.o
 .PHONY : boj/implemented/2108.o
@@ -2703,6 +2903,54 @@ boj/recursion/1629.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1629.dir/build.make CMakeFiles/boj_1629.dir/boj/recursion/1629.cpp.s
 .PHONY : boj/recursion/1629.cpp.s
 
+boj/sort/1181.o: boj/sort/1181.cpp.o
+.PHONY : boj/sort/1181.o
+
+# target to build an object file
+boj/sort/1181.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_1181.dir/build.make CMakeFiles/boj_sort_1181.dir/boj/sort/1181.cpp.o
+.PHONY : boj/sort/1181.cpp.o
+
+boj/sort/1181.i: boj/sort/1181.cpp.i
+.PHONY : boj/sort/1181.i
+
+# target to preprocess a source file
+boj/sort/1181.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_1181.dir/build.make CMakeFiles/boj_sort_1181.dir/boj/sort/1181.cpp.i
+.PHONY : boj/sort/1181.cpp.i
+
+boj/sort/1181.s: boj/sort/1181.cpp.s
+.PHONY : boj/sort/1181.s
+
+# target to generate assembly for a file
+boj/sort/1181.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_1181.dir/build.make CMakeFiles/boj_sort_1181.dir/boj/sort/1181.cpp.s
+.PHONY : boj/sort/1181.cpp.s
+
+boj/sort/18110.o: boj/sort/18110.cpp.o
+.PHONY : boj/sort/18110.o
+
+# target to build an object file
+boj/sort/18110.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_18110.dir/build.make CMakeFiles/boj_sort_18110.dir/boj/sort/18110.cpp.o
+.PHONY : boj/sort/18110.cpp.o
+
+boj/sort/18110.i: boj/sort/18110.cpp.i
+.PHONY : boj/sort/18110.i
+
+# target to preprocess a source file
+boj/sort/18110.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_18110.dir/build.make CMakeFiles/boj_sort_18110.dir/boj/sort/18110.cpp.i
+.PHONY : boj/sort/18110.cpp.i
+
+boj/sort/18110.s: boj/sort/18110.cpp.s
+.PHONY : boj/sort/18110.s
+
+# target to generate assembly for a file
+boj/sort/18110.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_sort_18110.dir/build.make CMakeFiles/boj_sort_18110.dir/boj/sort/18110.cpp.s
+.PHONY : boj/sort/18110.cpp.s
+
 boj/sort/2075.o: boj/sort/2075.cpp.o
 .PHONY : boj/sort/2075.o
 
@@ -2822,6 +3070,30 @@ boj/stack/3015.s: boj/stack/3015.cpp.s
 boj/stack/3015.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_3015.dir/build.make CMakeFiles/boj_stack_3015.dir/boj/stack/3015.cpp.s
 .PHONY : boj/stack/3015.cpp.s
+
+boj/stack/4949.o: boj/stack/4949.cpp.o
+.PHONY : boj/stack/4949.o
+
+# target to build an object file
+boj/stack/4949.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_4949.dir/build.make CMakeFiles/boj_stack_4949.dir/boj/stack/4949.cpp.o
+.PHONY : boj/stack/4949.cpp.o
+
+boj/stack/4949.i: boj/stack/4949.cpp.i
+.PHONY : boj/stack/4949.i
+
+# target to preprocess a source file
+boj/stack/4949.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_4949.dir/build.make CMakeFiles/boj_stack_4949.dir/boj/stack/4949.cpp.i
+.PHONY : boj/stack/4949.cpp.i
+
+boj/stack/4949.s: boj/stack/4949.cpp.s
+.PHONY : boj/stack/4949.s
+
+# target to generate assembly for a file
+boj/stack/4949.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_stack_4949.dir/build.make CMakeFiles/boj_stack_4949.dir/boj/stack/4949.cpp.s
+.PHONY : boj/stack/4949.cpp.s
 
 boj/stack/9012.o: boj/stack/9012.cpp.o
 .PHONY : boj/stack/9012.o
@@ -2991,6 +3263,30 @@ boj/union-find/1717.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1717.dir/build.make CMakeFiles/boj_union-find_1717.dir/boj/union-find/1717.cpp.s
 .PHONY : boj/union-find/1717.cpp.s
 
+boj/union-find/1976.o: boj/union-find/1976.cpp.o
+.PHONY : boj/union-find/1976.o
+
+# target to build an object file
+boj/union-find/1976.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1976.dir/build.make CMakeFiles/boj_union-find_1976.dir/boj/union-find/1976.cpp.o
+.PHONY : boj/union-find/1976.cpp.o
+
+boj/union-find/1976.i: boj/union-find/1976.cpp.i
+.PHONY : boj/union-find/1976.i
+
+# target to preprocess a source file
+boj/union-find/1976.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1976.dir/build.make CMakeFiles/boj_union-find_1976.dir/boj/union-find/1976.cpp.i
+.PHONY : boj/union-find/1976.cpp.i
+
+boj/union-find/1976.s: boj/union-find/1976.cpp.s
+.PHONY : boj/union-find/1976.s
+
+# target to generate assembly for a file
+boj/union-find/1976.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_union-find_1976.dir/build.make CMakeFiles/boj_union-find_1976.dir/boj/union-find/1976.cpp.s
+.PHONY : boj/union-find/1976.cpp.s
+
 merge.o: merge.cpp.o
 .PHONY : merge.o
 
@@ -3082,7 +3378,9 @@ help:
 	@echo "... boj_7662"
 	@echo "... boj_9095"
 	@echo "... boj_9251"
+	@echo "... boj_bfs_10026"
 	@echo "... boj_bfs_1012"
+	@echo "... boj_bfs_1697"
 	@echo "... boj_bfs_1926"
 	@echo "... boj_bfs_2667"
 	@echo "... boj_dp_11048"
@@ -3108,22 +3406,28 @@ help:
 	@echo "... boj_greedy_16953"
 	@echo "... boj_greedy_1715"
 	@echo "... boj_greedy_1744"
+	@echo "... boj_greedy_1789"
 	@echo "... boj_greedy_18310"
 	@echo "... boj_greedy_1946"
 	@echo "... boj_greedy_2212"
 	@echo "... boj_greedy_31963"
 	@echo "... boj_hash_1620"
 	@echo "... boj_hash_7785"
+	@echo "... boj_implemented_1018"
 	@echo "... boj_implemented_2992"
 	@echo "... boj_implemented_8958"
 	@echo "... boj_pq_11286"
+	@echo "... boj_sort_1181"
+	@echo "... boj_sort_18110"
 	@echo "... boj_stack_17298"
 	@echo "... boj_stack_17299"
 	@echo "... boj_stack_3015"
+	@echo "... boj_stack_4949"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
 	@echo "... boj_twoPointer_2470"
 	@echo "... boj_union-find_1717"
+	@echo "... boj_union-find_1976"
 	@echo "... merge"
 	@echo "... test"
 	@echo "... boj/11000.o"
@@ -3153,9 +3457,15 @@ help:
 	@echo "... boj/backTracking/15652.o"
 	@echo "... boj/backTracking/15652.i"
 	@echo "... boj/backTracking/15652.s"
+	@echo "... boj/bfs/10026.o"
+	@echo "... boj/bfs/10026.i"
+	@echo "... boj/bfs/10026.s"
 	@echo "... boj/bfs/1012.o"
 	@echo "... boj/bfs/1012.i"
 	@echo "... boj/bfs/1012.s"
+	@echo "... boj/bfs/1697.o"
+	@echo "... boj/bfs/1697.i"
+	@echo "... boj/bfs/1697.s"
 	@echo "... boj/bfs/1926.o"
 	@echo "... boj/bfs/1926.i"
 	@echo "... boj/bfs/1926.s"
@@ -3276,6 +3586,9 @@ help:
 	@echo "... boj/greedy/1744.o"
 	@echo "... boj/greedy/1744.i"
 	@echo "... boj/greedy/1744.s"
+	@echo "... boj/greedy/1789.o"
+	@echo "... boj/greedy/1789.i"
+	@echo "... boj/greedy/1789.s"
 	@echo "... boj/greedy/18310.o"
 	@echo "... boj/greedy/18310.i"
 	@echo "... boj/greedy/18310.s"
@@ -3297,6 +3610,9 @@ help:
 	@echo "... boj/hash/7785.o"
 	@echo "... boj/hash/7785.i"
 	@echo "... boj/hash/7785.s"
+	@echo "... boj/implemented/1018.o"
+	@echo "... boj/implemented/1018.i"
+	@echo "... boj/implemented/1018.s"
 	@echo "... boj/implemented/2108.o"
 	@echo "... boj/implemented/2108.i"
 	@echo "... boj/implemented/2108.s"
@@ -3321,6 +3637,12 @@ help:
 	@echo "... boj/recursion/1629.o"
 	@echo "... boj/recursion/1629.i"
 	@echo "... boj/recursion/1629.s"
+	@echo "... boj/sort/1181.o"
+	@echo "... boj/sort/1181.i"
+	@echo "... boj/sort/1181.s"
+	@echo "... boj/sort/18110.o"
+	@echo "... boj/sort/18110.i"
+	@echo "... boj/sort/18110.s"
 	@echo "... boj/sort/2075.o"
 	@echo "... boj/sort/2075.i"
 	@echo "... boj/sort/2075.s"
@@ -3336,6 +3658,9 @@ help:
 	@echo "... boj/stack/3015.o"
 	@echo "... boj/stack/3015.i"
 	@echo "... boj/stack/3015.s"
+	@echo "... boj/stack/4949.o"
+	@echo "... boj/stack/4949.i"
+	@echo "... boj/stack/4949.s"
 	@echo "... boj/stack/9012.o"
 	@echo "... boj/stack/9012.i"
 	@echo "... boj/stack/9012.s"
@@ -3357,6 +3682,9 @@ help:
 	@echo "... boj/union-find/1717.o"
 	@echo "... boj/union-find/1717.i"
 	@echo "... boj/union-find/1717.s"
+	@echo "... boj/union-find/1976.o"
+	@echo "... boj/union-find/1976.i"
+	@echo "... boj/union-find/1976.s"
 	@echo "... merge.o"
 	@echo "... merge.i"
 	@echo "... merge.s"

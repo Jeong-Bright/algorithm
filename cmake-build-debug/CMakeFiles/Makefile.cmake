@@ -129,4 +129,12 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/boj_stack_3015.dir/DependInfo.cmake"
   "CMakeFiles/boj_dp_1904.dir/DependInfo.cmake"
   "CMakeFiles/boj_dp_1912.dir/DependInfo.cmake"
+  "CMakeFiles/boj_bfs_10026.dir/DependInfo.cmake"
+  "CMakeFiles/boj_bfs_1697.dir/DependInfo.cmake"
+  "CMakeFiles/boj_union-find_1976.dir/DependInfo.cmake"
+  "CMakeFiles/boj_sort_1181.dir/DependInfo.cmake"
+  "CMakeFiles/boj_sort_18110.dir/DependInfo.cmake"
+  "CMakeFiles/boj_implemented_1018.dir/DependInfo.cmake"
+  "CMakeFiles/boj_stack_4949.dir/DependInfo.cmake"
+  "CMakeFiles/boj_greedy_1789.dir/DependInfo.cmake"
   )

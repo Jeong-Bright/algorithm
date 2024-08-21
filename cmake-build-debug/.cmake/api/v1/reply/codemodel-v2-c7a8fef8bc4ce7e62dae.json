@@ -93,7 +93,15 @@
 						75,
 						76,
 						77,
-						78
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86
 					]
 				}
 			],
@@ -186,7 +194,15 @@
 						75,
 						76,
 						77,
-						78
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86
 					]
 				}
 			],
@@ -439,9 +455,23 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_bfs_10026::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_bfs_10026-Debug-c27b7b7007b60ca11f6d.json",
+					"name" : "boj_bfs_10026",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_bfs_1012::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_bfs_1012-Debug-288503e2a1443af459eb.json",
 					"name" : "boj_bfs_1012",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_bfs_1697::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_bfs_1697-Debug-265c7177cba32e854d27.json",
+					"name" : "boj_bfs_1697",
 					"projectIndex" : 0
 				},
 				{
@@ -621,6 +651,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_greedy_1789::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_greedy_1789-Debug-b619d183e84c686b88a9.json",
+					"name" : "boj_greedy_1789",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_greedy_18310::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_greedy_18310-Debug-b86664664c47b96f126c.json",
 					"name" : "boj_greedy_18310",
@@ -663,6 +700,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_implemented_1018::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_implemented_1018-Debug-a7ff7ded1fbdd09d4c48.json",
+					"name" : "boj_implemented_1018",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_implemented_2992::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_implemented_2992-Debug-9dfca9f6d5fe79583d3e.json",
 					"name" : "boj_implemented_2992",
@@ -684,6 +728,20 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_sort_1181::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_sort_1181-Debug-6907682175047a0ef417.json",
+					"name" : "boj_sort_1181",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_sort_18110::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_sort_18110-Debug-cce5551814a06400a42b.json",
+					"name" : "boj_sort_18110",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_stack_17298::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_stack_17298-Debug-a3880f8e0fce941dbef0.json",
 					"name" : "boj_stack_17298",
@@ -701,6 +759,13 @@
 					"id" : "boj_stack_3015::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_stack_3015-Debug-15bbf036d3426016cf74.json",
 					"name" : "boj_stack_3015",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_stack_4949::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_stack_4949-Debug-6657d2359875ee7d85c2.json",
+					"name" : "boj_stack_4949",
 					"projectIndex" : 0
 				},
 				{
@@ -729,6 +794,13 @@
 					"id" : "boj_union-find_1717::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_union-find_1717-Debug-719f77c1f2399422b3f4.json",
 					"name" : "boj_union-find_1717",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_union-find_1976::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_union-find_1976-Debug-46781dab6ae5a15b85b2.json",
+					"name" : "boj_union-find_1976",
 					"projectIndex" : 0
 				},
 				{
