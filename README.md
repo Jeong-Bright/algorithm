@@ -93,6 +93,7 @@
 <h2>Parametric Search</h2>
 
 ### [랜선 자르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/parametricSearch/1654.cpp)
+### [나무 자르기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/parametricSearch/2805.cpp)
 
 <h2>Two Pointer</h2>
 

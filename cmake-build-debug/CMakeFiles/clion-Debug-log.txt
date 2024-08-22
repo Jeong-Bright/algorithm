@@ -8,6 +8,8 @@ CMake Deprecation Warning:
   use the cmake-file-api(7) to view CMake-generated project build trees.
 
 
--- Configuring done (0.1s)
--- Generating done (0.4s)
--- Build files have been written to: /Users/jeonjeonghyeon/Documents/algorithm/cmake-build-debug
+-- Configuring done (0.0s)
+CMake Error: Cannot determine link language for target "CMakeLists".
+CMake Error: CMake can not determine linker language for target: CMakeLists
+-- Generating done (0.2s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

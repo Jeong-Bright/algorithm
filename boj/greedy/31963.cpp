@@ -11,21 +11,32 @@ int arr[250005];
 
 int main() {
     io;
-    int N, cnt = 0; cin >> N;
+    int N, cnt = 0,mul = 0; cin >> N;
     for (int i = 0; i < N; i++) {
         cin >> arr[i];
     }
 
 
     for (int i = 1; i < N; i++) {
+        if(arr[i-1] > arr[i]) {
+            int minus = arr[i - 1] - arr[i];
+            int div = (arr[i-1] % 2 == 0) ? (arr[i-1] / 2) : arr[i-1] / 2 + 1;
 
-        if (arr[i] < arr[i - 1]) {
-            while(1) {
-                if(arr[i] >= arr[i-1]) break;
-                arr[i] *= 2;
-                cnt++;
+            if((2*minus) * arr[i] >= arr[i-1] && (2*div) * arr[i] >= arr[i-1]) {
+                cnt += min(div, minus);
+                mul = min(div, minus);
+                arr[i] *= 2*mul;
+            }
+            else if((2*minus) * arr[i] >= arr[i-1]) {
+                cnt += minus;
+                arr[i] *= 2*minus;
+            }
+            else {
+                cnt += div;
+                arr[i] *= 2*div;
             }
         }
+        cout << arr[i-1] << ' ' << arr[i] << endl;
     }
 
     cout << cnt;

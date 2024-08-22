@@ -1247,6 +1247,71 @@ boj_greedy_1789/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1789.dir/build.make CMakeFiles/boj_greedy_1789.dir/build
 .PHONY : boj_greedy_1789/fast
 
+#=============================================================================
+# Target rules for targets named boj_greedy_15903
+
+# Build rule for target.
+boj_greedy_15903: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_greedy_15903
+.PHONY : boj_greedy_15903
+
+# fast build rule for target.
+boj_greedy_15903/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_15903.dir/build.make CMakeFiles/boj_greedy_15903.dir/build
+.PHONY : boj_greedy_15903/fast
+
+#=============================================================================
+# Target rules for targets named boj_binarySearch_10815
+
+# Build rule for target.
+boj_binarySearch_10815: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_binarySearch_10815
+.PHONY : boj_binarySearch_10815
+
+# fast build rule for target.
+boj_binarySearch_10815/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_binarySearch_10815.dir/build.make CMakeFiles/boj_binarySearch_10815.dir/build
+.PHONY : boj_binarySearch_10815/fast
+
+#=============================================================================
+# Target rules for targets named boj_parametricSearch_2805
+
+# Build rule for target.
+boj_parametricSearch_2805: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_parametricSearch_2805
+.PHONY : boj_parametricSearch_2805
+
+# fast build rule for target.
+boj_parametricSearch_2805/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_parametricSearch_2805.dir/build.make CMakeFiles/boj_parametricSearch_2805.dir/build
+.PHONY : boj_parametricSearch_2805/fast
+
+#=============================================================================
+# Target rules for targets named boj_implemented_8979
+
+# Build rule for target.
+boj_implemented_8979: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_implemented_8979
+.PHONY : boj_implemented_8979
+
+# fast build rule for target.
+boj_implemented_8979/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_8979.dir/build.make CMakeFiles/boj_implemented_8979.dir/build
+.PHONY : boj_implemented_8979/fast
+
+#=============================================================================
+# Target rules for targets named CMakeLists
+
+# Build rule for target.
+CMakeLists: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeLists
+.PHONY : CMakeLists
+
+# fast build rule for target.
+CMakeLists/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeLists.dir/build.make CMakeFiles/CMakeLists.dir/build
+.PHONY : CMakeLists/fast
+
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
 
@@ -1606,6 +1671,30 @@ boj/bfs/7576.s: boj/bfs/7576.cpp.s
 boj/bfs/7576.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_7576.dir/build.make CMakeFiles/boj_7576.dir/boj/bfs/7576.cpp.s
 .PHONY : boj/bfs/7576.cpp.s
+
+boj/binarySearch/10815.o: boj/binarySearch/10815.cpp.o
+.PHONY : boj/binarySearch/10815.o
+
+# target to build an object file
+boj/binarySearch/10815.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_binarySearch_10815.dir/build.make CMakeFiles/boj_binarySearch_10815.dir/boj/binarySearch/10815.cpp.o
+.PHONY : boj/binarySearch/10815.cpp.o
+
+boj/binarySearch/10815.i: boj/binarySearch/10815.cpp.i
+.PHONY : boj/binarySearch/10815.i
+
+# target to preprocess a source file
+boj/binarySearch/10815.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_binarySearch_10815.dir/build.make CMakeFiles/boj_binarySearch_10815.dir/boj/binarySearch/10815.cpp.i
+.PHONY : boj/binarySearch/10815.cpp.i
+
+boj/binarySearch/10815.s: boj/binarySearch/10815.cpp.s
+.PHONY : boj/binarySearch/10815.s
+
+# target to generate assembly for a file
+boj/binarySearch/10815.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_binarySearch_10815.dir/build.make CMakeFiles/boj_binarySearch_10815.dir/boj/binarySearch/10815.cpp.s
+.PHONY : boj/binarySearch/10815.cpp.s
 
 boj/binarySearch/10816.o: boj/binarySearch/10816.cpp.o
 .PHONY : boj/binarySearch/10816.o
@@ -2399,6 +2488,30 @@ boj/greedy/1461.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_1461.dir/build.make CMakeFiles/boj_greedy_1461.dir/boj/greedy/1461.cpp.s
 .PHONY : boj/greedy/1461.cpp.s
 
+boj/greedy/15903.o: boj/greedy/15903.cpp.o
+.PHONY : boj/greedy/15903.o
+
+# target to build an object file
+boj/greedy/15903.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_15903.dir/build.make CMakeFiles/boj_greedy_15903.dir/boj/greedy/15903.cpp.o
+.PHONY : boj/greedy/15903.cpp.o
+
+boj/greedy/15903.i: boj/greedy/15903.cpp.i
+.PHONY : boj/greedy/15903.i
+
+# target to preprocess a source file
+boj/greedy/15903.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_15903.dir/build.make CMakeFiles/boj_greedy_15903.dir/boj/greedy/15903.cpp.i
+.PHONY : boj/greedy/15903.cpp.i
+
+boj/greedy/15903.s: boj/greedy/15903.cpp.s
+.PHONY : boj/greedy/15903.s
+
+# target to generate assembly for a file
+boj/greedy/15903.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_greedy_15903.dir/build.make CMakeFiles/boj_greedy_15903.dir/boj/greedy/15903.cpp.s
+.PHONY : boj/greedy/15903.cpp.s
+
 boj/greedy/16435.o: boj/greedy/16435.cpp.o
 .PHONY : boj/greedy/16435.o
 
@@ -2783,6 +2896,30 @@ boj/implemented/8958.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_8958.dir/build.make CMakeFiles/boj_implemented_8958.dir/boj/implemented/8958.cpp.s
 .PHONY : boj/implemented/8958.cpp.s
 
+boj/implemented/8979.o: boj/implemented/8979.cpp.o
+.PHONY : boj/implemented/8979.o
+
+# target to build an object file
+boj/implemented/8979.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_8979.dir/build.make CMakeFiles/boj_implemented_8979.dir/boj/implemented/8979.cpp.o
+.PHONY : boj/implemented/8979.cpp.o
+
+boj/implemented/8979.i: boj/implemented/8979.cpp.i
+.PHONY : boj/implemented/8979.i
+
+# target to preprocess a source file
+boj/implemented/8979.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_8979.dir/build.make CMakeFiles/boj_implemented_8979.dir/boj/implemented/8979.cpp.i
+.PHONY : boj/implemented/8979.cpp.i
+
+boj/implemented/8979.s: boj/implemented/8979.cpp.s
+.PHONY : boj/implemented/8979.s
+
+# target to generate assembly for a file
+boj/implemented/8979.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_implemented_8979.dir/build.make CMakeFiles/boj_implemented_8979.dir/boj/implemented/8979.cpp.s
+.PHONY : boj/implemented/8979.cpp.s
+
 boj/parametricSearch/1654.o: boj/parametricSearch/1654.cpp.o
 .PHONY : boj/parametricSearch/1654.o
 
@@ -2806,6 +2943,30 @@ boj/parametricSearch/1654.s: boj/parametricSearch/1654.cpp.s
 boj/parametricSearch/1654.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_1654.dir/build.make CMakeFiles/boj_1654.dir/boj/parametricSearch/1654.cpp.s
 .PHONY : boj/parametricSearch/1654.cpp.s
+
+boj/parametricSearch/2805.o: boj/parametricSearch/2805.cpp.o
+.PHONY : boj/parametricSearch/2805.o
+
+# target to build an object file
+boj/parametricSearch/2805.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_parametricSearch_2805.dir/build.make CMakeFiles/boj_parametricSearch_2805.dir/boj/parametricSearch/2805.cpp.o
+.PHONY : boj/parametricSearch/2805.cpp.o
+
+boj/parametricSearch/2805.i: boj/parametricSearch/2805.cpp.i
+.PHONY : boj/parametricSearch/2805.i
+
+# target to preprocess a source file
+boj/parametricSearch/2805.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_parametricSearch_2805.dir/build.make CMakeFiles/boj_parametricSearch_2805.dir/boj/parametricSearch/2805.cpp.i
+.PHONY : boj/parametricSearch/2805.cpp.i
+
+boj/parametricSearch/2805.s: boj/parametricSearch/2805.cpp.s
+.PHONY : boj/parametricSearch/2805.s
+
+# target to generate assembly for a file
+boj/parametricSearch/2805.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_parametricSearch_2805.dir/build.make CMakeFiles/boj_parametricSearch_2805.dir/boj/parametricSearch/2805.cpp.s
+.PHONY : boj/parametricSearch/2805.cpp.s
 
 boj/pq/11286.o: boj/pq/11286.cpp.o
 .PHONY : boj/pq/11286.o
@@ -3347,6 +3508,7 @@ help:
 	@echo "... 2493"
 	@echo "... 2579"
 	@echo "... 9012"
+	@echo "... CMakeLists"
 	@echo "... algorithm"
 	@echo "... boj_1026"
 	@echo "... boj_10816"
@@ -3383,6 +3545,7 @@ help:
 	@echo "... boj_bfs_1697"
 	@echo "... boj_bfs_1926"
 	@echo "... boj_bfs_2667"
+	@echo "... boj_binarySearch_10815"
 	@echo "... boj_dp_11048"
 	@echo "... boj_dp_1106"
 	@echo "... boj_dp_1535"
@@ -3402,6 +3565,7 @@ help:
 	@echo "... boj_greedy_13305"
 	@echo "... boj_greedy_1339"
 	@echo "... boj_greedy_1461"
+	@echo "... boj_greedy_15903"
 	@echo "... boj_greedy_16435"
 	@echo "... boj_greedy_16953"
 	@echo "... boj_greedy_1715"
@@ -3416,6 +3580,8 @@ help:
 	@echo "... boj_implemented_1018"
 	@echo "... boj_implemented_2992"
 	@echo "... boj_implemented_8958"
+	@echo "... boj_implemented_8979"
+	@echo "... boj_parametricSearch_2805"
 	@echo "... boj_pq_11286"
 	@echo "... boj_sort_1181"
 	@echo "... boj_sort_18110"
@@ -3475,6 +3641,9 @@ help:
 	@echo "... boj/bfs/7576.o"
 	@echo "... boj/bfs/7576.i"
 	@echo "... boj/bfs/7576.s"
+	@echo "... boj/binarySearch/10815.o"
+	@echo "... boj/binarySearch/10815.i"
+	@echo "... boj/binarySearch/10815.s"
 	@echo "... boj/binarySearch/10816.o"
 	@echo "... boj/binarySearch/10816.i"
 	@echo "... boj/binarySearch/10816.s"
@@ -3574,6 +3743,9 @@ help:
 	@echo "... boj/greedy/1461.o"
 	@echo "... boj/greedy/1461.i"
 	@echo "... boj/greedy/1461.s"
+	@echo "... boj/greedy/15903.o"
+	@echo "... boj/greedy/15903.i"
+	@echo "... boj/greedy/15903.s"
 	@echo "... boj/greedy/16435.o"
 	@echo "... boj/greedy/16435.i"
 	@echo "... boj/greedy/16435.s"
@@ -3622,9 +3794,15 @@ help:
 	@echo "... boj/implemented/8958.o"
 	@echo "... boj/implemented/8958.i"
 	@echo "... boj/implemented/8958.s"
+	@echo "... boj/implemented/8979.o"
+	@echo "... boj/implemented/8979.i"
+	@echo "... boj/implemented/8979.s"
 	@echo "... boj/parametricSearch/1654.o"
 	@echo "... boj/parametricSearch/1654.i"
 	@echo "... boj/parametricSearch/1654.s"
+	@echo "... boj/parametricSearch/2805.o"
+	@echo "... boj/parametricSearch/2805.i"
+	@echo "... boj/parametricSearch/2805.s"
 	@echo "... boj/pq/11286.o"
 	@echo "... boj/pq/11286.i"
 	@echo "... boj/pq/11286.s"

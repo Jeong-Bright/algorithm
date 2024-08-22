@@ -101,7 +101,12 @@
 						83,
 						84,
 						85,
-						86
+						86,
+						87,
+						88,
+						89,
+						90,
+						91
 					]
 				}
 			],
@@ -202,7 +207,12 @@
 						83,
 						84,
 						85,
-						86
+						86,
+						87,
+						88,
+						89,
+						90,
+						91
 					]
 				}
 			],
@@ -490,6 +500,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_binarySearch_10815::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_binarySearch_10815-Debug-b2fd9bbd0e64ebbc506d.json",
+					"name" : "boj_binarySearch_10815",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_dp_11048::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_dp_11048-Debug-710f1cb46fae7b5809d2.json",
 					"name" : "boj_dp_11048",
@@ -623,6 +640,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_greedy_15903::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_greedy_15903-Debug-44ebeea4695c6eaa5b35.json",
+					"name" : "boj_greedy_15903",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_greedy_16435::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_greedy_16435-Debug-a8fffba1b0e565736aa0.json",
 					"name" : "boj_greedy_16435",
@@ -707,6 +731,13 @@
 				},
 				{
 					"directoryIndex" : 0,
+					"id" : "boj_implemented_1268::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_implemented_1268-Debug-b8937de09b60742f7f10.json",
+					"name" : "boj_implemented_1268",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "boj_implemented_2992::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_implemented_2992-Debug-9dfca9f6d5fe79583d3e.json",
 					"name" : "boj_implemented_2992",
@@ -717,6 +748,20 @@
 					"id" : "boj_implemented_8958::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-boj_implemented_8958-Debug-f3fee1d35c0d0f4bd8e6.json",
 					"name" : "boj_implemented_8958",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_implemented_8979::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_implemented_8979-Debug-bc285e0978f6e8095a43.json",
+					"name" : "boj_implemented_8979",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "boj_parametricSearch_2805::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-boj_parametricSearch_2805-Debug-7810d286d7e4ae24b03c.json",
+					"name" : "boj_parametricSearch_2805",
 					"projectIndex" : 0
 				},
 				{
