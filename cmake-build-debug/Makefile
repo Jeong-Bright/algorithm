@@ -1300,17 +1300,43 @@ boj_implemented_8979/fast:
 .PHONY : boj_implemented_8979/fast
 
 #=============================================================================
-# Target rules for targets named CMakeLists
+# Target rules for targets named boj_bfs_14502
 
 # Build rule for target.
-CMakeLists: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeLists
-.PHONY : CMakeLists
+boj_bfs_14502: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_bfs_14502
+.PHONY : boj_bfs_14502
 
 # fast build rule for target.
-CMakeLists/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/CMakeLists.dir/build.make CMakeFiles/CMakeLists.dir/build
-.PHONY : CMakeLists/fast
+boj_bfs_14502/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_14502.dir/build.make CMakeFiles/boj_bfs_14502.dir/build
+.PHONY : boj_bfs_14502/fast
+
+#=============================================================================
+# Target rules for targets named boj_string_1316
+
+# Build rule for target.
+boj_string_1316: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_string_1316
+.PHONY : boj_string_1316
+
+# fast build rule for target.
+boj_string_1316/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1316.dir/build.make CMakeFiles/boj_string_1316.dir/build
+.PHONY : boj_string_1316/fast
+
+#=============================================================================
+# Target rules for targets named boj_string_1764
+
+# Build rule for target.
+boj_string_1764: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 boj_string_1764
+.PHONY : boj_string_1764
+
+# fast build rule for target.
+boj_string_1764/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1764.dir/build.make CMakeFiles/boj_string_1764.dir/build
+.PHONY : boj_string_1764/fast
 
 boj/11000.o: boj/11000.cpp.o
 .PHONY : boj/11000.o
@@ -1575,6 +1601,30 @@ boj/bfs/1012.s: boj/bfs/1012.cpp.s
 boj/bfs/1012.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_1012.dir/build.make CMakeFiles/boj_bfs_1012.dir/boj/bfs/1012.cpp.s
 .PHONY : boj/bfs/1012.cpp.s
+
+boj/bfs/16236.o: boj/bfs/16236.cpp.o
+.PHONY : boj/bfs/16236.o
+
+# target to build an object file
+boj/bfs/16236.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_14502.dir/build.make CMakeFiles/boj_bfs_14502.dir/boj/bfs/16236.cpp.o
+.PHONY : boj/bfs/16236.cpp.o
+
+boj/bfs/16236.i: boj/bfs/16236.cpp.i
+.PHONY : boj/bfs/16236.i
+
+# target to preprocess a source file
+boj/bfs/16236.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_14502.dir/build.make CMakeFiles/boj_bfs_14502.dir/boj/bfs/16236.cpp.i
+.PHONY : boj/bfs/16236.cpp.i
+
+boj/bfs/16236.s: boj/bfs/16236.cpp.s
+.PHONY : boj/bfs/16236.s
+
+# target to generate assembly for a file
+boj/bfs/16236.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_bfs_14502.dir/build.make CMakeFiles/boj_bfs_14502.dir/boj/bfs/16236.cpp.s
+.PHONY : boj/bfs/16236.cpp.s
 
 boj/bfs/1697.o: boj/bfs/1697.cpp.o
 .PHONY : boj/bfs/1697.o
@@ -3280,6 +3330,54 @@ boj/stack/9012.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/9012.dir/build.make CMakeFiles/9012.dir/boj/stack/9012.cpp.s
 .PHONY : boj/stack/9012.cpp.s
 
+boj/string/1316.o: boj/string/1316.cpp.o
+.PHONY : boj/string/1316.o
+
+# target to build an object file
+boj/string/1316.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1316.dir/build.make CMakeFiles/boj_string_1316.dir/boj/string/1316.cpp.o
+.PHONY : boj/string/1316.cpp.o
+
+boj/string/1316.i: boj/string/1316.cpp.i
+.PHONY : boj/string/1316.i
+
+# target to preprocess a source file
+boj/string/1316.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1316.dir/build.make CMakeFiles/boj_string_1316.dir/boj/string/1316.cpp.i
+.PHONY : boj/string/1316.cpp.i
+
+boj/string/1316.s: boj/string/1316.cpp.s
+.PHONY : boj/string/1316.s
+
+# target to generate assembly for a file
+boj/string/1316.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1316.dir/build.make CMakeFiles/boj_string_1316.dir/boj/string/1316.cpp.s
+.PHONY : boj/string/1316.cpp.s
+
+boj/string/1764.o: boj/string/1764.cpp.o
+.PHONY : boj/string/1764.o
+
+# target to build an object file
+boj/string/1764.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1764.dir/build.make CMakeFiles/boj_string_1764.dir/boj/string/1764.cpp.o
+.PHONY : boj/string/1764.cpp.o
+
+boj/string/1764.i: boj/string/1764.cpp.i
+.PHONY : boj/string/1764.i
+
+# target to preprocess a source file
+boj/string/1764.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1764.dir/build.make CMakeFiles/boj_string_1764.dir/boj/string/1764.cpp.i
+.PHONY : boj/string/1764.cpp.i
+
+boj/string/1764.s: boj/string/1764.cpp.s
+.PHONY : boj/string/1764.s
+
+# target to generate assembly for a file
+boj/string/1764.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/boj_string_1764.dir/build.make CMakeFiles/boj_string_1764.dir/boj/string/1764.cpp.s
+.PHONY : boj/string/1764.cpp.s
+
 boj/tree/11725.o: boj/tree/11725.cpp.o
 .PHONY : boj/tree/11725.o
 
@@ -3508,7 +3606,6 @@ help:
 	@echo "... 2493"
 	@echo "... 2579"
 	@echo "... 9012"
-	@echo "... CMakeLists"
 	@echo "... algorithm"
 	@echo "... boj_1026"
 	@echo "... boj_10816"
@@ -3542,6 +3639,7 @@ help:
 	@echo "... boj_9251"
 	@echo "... boj_bfs_10026"
 	@echo "... boj_bfs_1012"
+	@echo "... boj_bfs_14502"
 	@echo "... boj_bfs_1697"
 	@echo "... boj_bfs_1926"
 	@echo "... boj_bfs_2667"
@@ -3589,6 +3687,8 @@ help:
 	@echo "... boj_stack_17299"
 	@echo "... boj_stack_3015"
 	@echo "... boj_stack_4949"
+	@echo "... boj_string_1316"
+	@echo "... boj_string_1764"
 	@echo "... boj_tree_11725"
 	@echo "... boj_tree_1991"
 	@echo "... boj_twoPointer_2470"
@@ -3629,6 +3729,9 @@ help:
 	@echo "... boj/bfs/1012.o"
 	@echo "... boj/bfs/1012.i"
 	@echo "... boj/bfs/1012.s"
+	@echo "... boj/bfs/16236.o"
+	@echo "... boj/bfs/16236.i"
+	@echo "... boj/bfs/16236.s"
 	@echo "... boj/bfs/1697.o"
 	@echo "... boj/bfs/1697.i"
 	@echo "... boj/bfs/1697.s"
@@ -3842,6 +3945,12 @@ help:
 	@echo "... boj/stack/9012.o"
 	@echo "... boj/stack/9012.i"
 	@echo "... boj/stack/9012.s"
+	@echo "... boj/string/1316.o"
+	@echo "... boj/string/1316.i"
+	@echo "... boj/string/1316.s"
+	@echo "... boj/string/1764.o"
+	@echo "... boj/string/1764.i"
+	@echo "... boj/string/1764.s"
 	@echo "... boj/tree/11725.o"
 	@echo "... boj/tree/11725.i"
 	@echo "... boj/tree/11725.s"
