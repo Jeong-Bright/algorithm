@@ -66,7 +66,8 @@
 ### [이동하기](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/11048.cpp)
 ### [설탕 배달](https://github.com/Jeong-Bright/algorithm/blob/main/boj/dp/2839.cpp)
 
-<h2>DP</h2>
+<h2>string</h2>
+
 ### [듣보잡](https://github.com/Jeong-Bright/algorithm/blob/main/boj/string/1764.cpp)
 
 
